@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/16618068" alt="Scoop Logo" style="width: 10%; height: 10%"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/16618068" alt="Scoop Logo" style="width: 20%; height: 20%"></p>
 
 <h1 align="center">Third Bucket All In One</h1>
 
