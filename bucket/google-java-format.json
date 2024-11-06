@@ -9,13 +9,13 @@
       "java/openjdk"
     ]
   },
-  "url": "https://mirror.ghproxy.com/https://github.com/google/google-java-format/releases/download/v1.19.2/google-java-format-1.19.2-all-deps.jar#/google-java-format.jar",
+  "url": "https://ghp.ci/https://github.com/google/google-java-format/releases/download/v1.19.2/google-java-format-1.19.2-all-deps.jar#/google-java-format.jar",
   "hash": "d898b5f70c55afdcf7c0431e497d68a48472c384f2d04fe6f0978dffe62cbe2a",
   "bin": "google-java-format.jar",
   "checkver": {
     "github": "https://github.com/google/google-java-format"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/google/google-java-format/releases/download/v$version/google-java-format-$version-all-deps.jar#/google-java-format.jar"
+    "url": "https://ghp.ci/https://github.com/google/google-java-format/releases/download/v$version/google-java-format-$version-all-deps.jar#/google-java-format.jar"
   }
 }

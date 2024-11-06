@@ -3,7 +3,7 @@
   "description": "Live shader coding tool and Shader Showdown workhorse",
   "homepage": "https://github.com/Gargaj/Bonzomatic",
   "license": "Unlicense",
-  "url": "https://mirror.ghproxy.com/https://github.com/Gargaj/Bonzomatic/releases/download/2022-07-08/Bonzomatic_W64_2022-07-08.zip",
+  "url": "https://ghp.ci/https://github.com/Gargaj/Bonzomatic/releases/download/2022-07-08/Bonzomatic_W64_2022-07-08.zip",
   "persist": [
     "textures",
     "config.json"

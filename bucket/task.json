@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/go-task/task/releases/download/v3.34.1/task_windows_amd64.zip",
+      "url": "https://ghp.ci/https://github.com/go-task/task/releases/download/v3.34.1/task_windows_amd64.zip",
       "hash": "dfadf1a2bae1085422fe322dccfdb40b4658743ec833b212f56293bba86aa194"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/go-task/task/releases/download/v3.34.1/task_windows_386.zip",
+      "url": "https://ghp.ci/https://github.com/go-task/task/releases/download/v3.34.1/task_windows_386.zip",
       "hash": "9def628140794c8c11b2359992f5639738b1535394884786eb51233a68e426e4"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/go-task/task/releases/download/v$version/task_windows_amd64.zip"
+        "url": "https://ghp.ci/https://github.com/go-task/task/releases/download/v$version/task_windows_amd64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/go-task/task/releases/download/v$version/task_windows_386.zip"
+        "url": "https://ghp.ci/https://github.com/go-task/task/releases/download/v$version/task_windows_386.zip"
       }
     },
     "hash": {

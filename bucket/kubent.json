@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/doitintl/kube-no-trouble/releases/download/0.7.1/kubent-0.7.1-windows-amd64.tar.gz",
+      "url": "https://ghp.ci/https://github.com/doitintl/kube-no-trouble/releases/download/0.7.1/kubent-0.7.1-windows-amd64.tar.gz",
       "hash": "33f1c4158220db0481cf2828d47fe95f5a140584fc3ddf13fe06f6593b4f725c"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/doitintl/kube-no-trouble/releases/download/$version/kubent-$version-windows-amd64.tar.gz"
+        "url": "https://ghp.ci/https://github.com/doitintl/kube-no-trouble/releases/download/$version/kubent-$version-windows-amd64.tar.gz"
       }
     }
   }

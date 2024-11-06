@@ -3,7 +3,7 @@
   "description": "Nerd Fonts patched 'DejaVuSansMono' Font family. (Proportional version, for GUI usecases)",
   "homepage": "https://github.com/ryanoasis/nerd-fonts",
   "license": "MIT",
-  "url": "https://mirror.ghproxy.com/https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/DejaVuSansMono.zip",
+  "url": "https://ghp.ci/https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/DejaVuSansMono.zip",
   "hash": "f46c6fb56b7ee4a5faa08b6ba32830692204a5240fe1fcb3b848fceef2d6e526",
   "installer": {
     "script": [
@@ -87,6 +87,6 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/DejaVuSansMono.zip"
+    "url": "https://ghp.ci/https://github.com/ryanoasis/nerd-fonts/releases/download/v$version/DejaVuSansMono.zip"
   }
 }

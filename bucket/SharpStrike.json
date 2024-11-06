@@ -4,8 +4,8 @@
   "homepage": "https://github.com/iomoath/SharpStrike",
   "license": "GPL-3.0",
   "url": [
-    "https://mirror.ghproxy.com/https://github.com/iomoath/SharpStrike/releases/download/v1.2/SharpStrike.exe",
-    "https://mirror.ghproxy.com/https://github.com/iomoath/SharpStrike/releases/download/v1.2/SharpStrike_GUI.exe"
+    "https://ghp.ci/https://github.com/iomoath/SharpStrike/releases/download/v1.2/SharpStrike.exe",
+    "https://ghp.ci/https://github.com/iomoath/SharpStrike/releases/download/v1.2/SharpStrike_GUI.exe"
   ],
   "hash": [
     "75c88789cab97dcfe6a21c1226208aac90f348463cbc8a6db172c34bf3775f51",
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/iomoath/SharpStrike/releases/download/$version/SharpStrike_GUI.exe"
+        "url": "https://ghp.ci/https://github.com/iomoath/SharpStrike/releases/download/$version/SharpStrike_GUI.exe"
       }
     }
   }

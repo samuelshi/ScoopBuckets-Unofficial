@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/grafana/agent/releases/download/v0.38.1/grafana-agentctl-windows-amd64.exe.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/grafana/agent/releases/download/v0.38.1/grafana-agentctl-windows-amd64.exe.zip",
       "hash": "8060ff3a30eb39ca5b438d0059bbae8e10a2b7a40b8b5c932836f9c095a40ec7"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/grafana/agent/releases/download/v$version/grafana-agentctl-windows-amd64.exe.zip"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/grafana/agent/releases/download/v$version/grafana-agentctl-windows-amd64.exe.zip"
       }
     },
     "hash": {

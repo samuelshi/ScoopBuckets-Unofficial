@@ -22,7 +22,7 @@
     "Now you've a complete edition to copy to the Source dir of Jazz² Resurrection!",
     ""
   ],
-  "url": "https://mirror.ghproxy.com/https://github.com/deathkiller/jazz2/releases/download/2.5.0/Jazz2_2.5.0_Windows.zip",
+  "url": "https://ghp.ci/https://github.com/deathkiller/jazz2/releases/download/2.5.0/Jazz2_2.5.0_Windows.zip",
   "hash": "8f3294e034cd6201142a7d5530a23cbdb3f08302af81994c4e7b93ecb1203ac9",
   "architecture": {
     "64bit": {
@@ -59,6 +59,6 @@
     "github": "https://github.com/deathkiller/jazz2"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/deathkiller/jazz2/releases/download/$version/Jazz2_$version_Windows.zip"
+    "url": "https://ghp.ci/https://github.com/deathkiller/jazz2/releases/download/$version/Jazz2_$version_Windows.zip"
   }
 }

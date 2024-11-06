@@ -9,7 +9,7 @@
   "notes": "See usage:<https://github.com/maotoumao/MusicFree#插件>",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.0-alpha.0/MusicFreeSetup.exe",
+      "url": "https://ghp.ci/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v0.0.0-alpha.0/MusicFreeSetup.exe",
       "hash": "68f599c3b357943bdc0ddcc02b74775affac1695f36f42048d9a0515d7193e5d"
     }
   },
@@ -36,7 +36,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v$version/MusicFreeSetup.exe"
+        "url": "https://ghp.ci/https://github.com/maotoumao/MusicFreeDesktop/releases/download/v$version/MusicFreeSetup.exe"
       }
     }
   }

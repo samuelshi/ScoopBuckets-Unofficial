@@ -4,7 +4,7 @@
   "homepage": "https://github.com/ffxiv-teamcraft/ffxiv-teamcraft",
   "license": "MIT",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/ffxiv-teamcraft/ffxiv-teamcraft/releases/download/v$version/ffxiv-teamcraft-$version-full.nupkg",
+    "url": "https://ghp.ci/https://github.com/ffxiv-teamcraft/ffxiv-teamcraft/releases/download/v$version/ffxiv-teamcraft-$version-full.nupkg",
     "hash": {
       "url": "$baseurl/RELEASES"
     }
@@ -18,5 +18,5 @@
       "FFXIV Teamcraft"
     ]
   ],
-  "url": "https://mirror.ghproxy.com/https://github.com/ffxiv-teamcraft/ffxiv-teamcraft/releases/download/v10.5.7/ffxiv-teamcraft-10.5.7-full.nupkg"
+  "url": "https://ghp.ci/https://github.com/ffxiv-teamcraft/ffxiv-teamcraft/releases/download/v10.5.7/ffxiv-teamcraft-10.5.7-full.nupkg"
 }

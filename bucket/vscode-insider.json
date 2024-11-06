@@ -43,8 +43,8 @@
     "64bit": {
       "url": [
         "https://code.visualstudio.com/sha/download?build=insider&os=win32-x64-archive#/dl.7z",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/visual-studio-code/vscode-install-context.reg",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/visual-studio-code/vscode-uninstall-context.reg"
+        "https://ghp.ci/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/visual-studio-code/vscode-install-context.reg",
+        "https://ghp.ci/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/visual-studio-code/vscode-uninstall-context.reg"
       ],
       "hash": [
         "f2969b03c312ea05a938554da47bd5cd944511f3252cf8d969d621d9c7407feb",
@@ -55,8 +55,8 @@
     "32bit": {
       "url": [
         "https://code.visualstudio.com/sha/download?build=insider&os=win32-archive#/dl.7z",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/visual-studio-code/vscode-install-context.reg",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/visual-studio-code/vscode-uninstall-context.reg"
+        "https://ghp.ci/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/visual-studio-code/vscode-install-context.reg",
+        "https://ghp.ci/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/visual-studio-code/vscode-uninstall-context.reg"
       ],
       "hash": [
         "08878b83355b78174eb0d631af8e99b610a3c5661ff52d8e3ff1c76181d6eed8",

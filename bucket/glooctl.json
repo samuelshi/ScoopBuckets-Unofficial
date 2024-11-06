@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/solo-io/gloo/releases/download/v1.15.14/glooctl-windows-amd64.exe#/glooctl.exe",
+      "url": "https://ghp.ci/https://github.com/solo-io/gloo/releases/download/v1.15.14/glooctl-windows-amd64.exe#/glooctl.exe",
       "hash": "55a8713e5e1ebf73efcf020c21fbc1c7e7d52f2c624bdfa59d31c2f592c78330"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/solo-io/gloo/releases/download/v$version/glooctl-windows-amd64.exe#/glooctl.exe"
+        "url": "https://ghp.ci/https://github.com/solo-io/gloo/releases/download/v$version/glooctl-windows-amd64.exe#/glooctl.exe"
       }
     },
     "hash": {

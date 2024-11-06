@@ -2,8 +2,8 @@
   "homepage": "https://github.com/vidarkongsli/vidars-scoop-bucket/tree/master/msbuild",
   "version": "0.2014.01.28",
   "url": [
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/vidarkongsli/vidars-scoop-bucket/master/msbuild/setenvforvs.ps1",
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/vidarkongsli/vidars-scoop-bucket/master/msbuild/installer.ps1"
+    "https://ghp.ci/https://raw.githubusercontent.com/vidarkongsli/vidars-scoop-bucket/master/msbuild/setenvforvs.ps1",
+    "https://ghp.ci/https://raw.githubusercontent.com/vidarkongsli/vidars-scoop-bucket/master/msbuild/installer.ps1"
   ],
   "hash": [
     "90c5d24de34e7f9df5e13822f96a052ba7b5e85151da76dbf085fefa151c63f0",

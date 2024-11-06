@@ -9,7 +9,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Virtuslab/scala-cli/releases/download/v1.1.2/scala-cli-x86_64-pc-win32.zip",
+      "url": "https://ghp.ci/https://github.com/Virtuslab/scala-cli/releases/download/v1.1.2/scala-cli-x86_64-pc-win32.zip",
       "hash": "a2be14ecffdb0b6cf68a717cb623ade98484b1e7d9905908a4a56cc94c992833"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Virtuslab/scala-cli/releases/download/v$version/scala-cli-x86_64-pc-win32.zip"
+        "url": "https://ghp.ci/https://github.com/Virtuslab/scala-cli/releases/download/v$version/scala-cli-x86_64-pc-win32.zip"
       }
     }
   }

@@ -5,11 +5,11 @@
   "license": "GPL-2.0-only WITH Classpath-exception-2.0,EPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u392-b08_openj9-0.41.0/ibm-semeru-open-jdk_x64_windows_8u392b08_openj9-0.41.0.zip",
+      "url": "https://ghp.ci/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u392-b08_openj9-0.41.0/ibm-semeru-open-jdk_x64_windows_8u392b08_openj9-0.41.0.zip",
       "hash": "884dc1dff1a0c3a8aae030a868770a190d0eb654e00a5ff3d649a79c3e91a955"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u392-b08_openj9-0.41.0/ibm-semeru-open-jdk_x86-32_windows_8u392b08_openj9-0.41.0.zip",
+      "url": "https://ghp.ci/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u392-b08_openj9-0.41.0/ibm-semeru-open-jdk_x86-32_windows_8u392b08_openj9-0.41.0.zip",
       "hash": "80a3d6d96785f2acf66946f99a0ca1a083c663c3b6f11a7fcf886cc5693aec2d"
     }
   },
@@ -26,10 +26,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x64_windows_$matchMajor$matchUpdate$matchBuild_openj9$matchJvmver.zip"
+        "url": "https://ghp.ci/https://github.com/ibmruntimes/semeru8-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x64_windows_$matchMajor$matchUpdate$matchBuild_openj9$matchJvmver.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x86-32_windows_$matchMajor$matchUpdate$matchBuild_openj9$matchJvmver.zip"
+        "url": "https://ghp.ci/https://github.com/ibmruntimes/semeru8-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x86-32_windows_$matchMajor$matchUpdate$matchBuild_openj9$matchJvmver.zip"
       }
     },
     "hash": {

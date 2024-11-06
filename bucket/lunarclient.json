@@ -12,6 +12,6 @@
     }
   },
   "post_install": [
-    "irm https://mirror.ghproxy.com/https://raw.githubusercontent.com/Aetopia/Bucket/main/lunarclient/lunarclient.ps1 | iex"
+    "irm https://ghp.ci/https://raw.githubusercontent.com/Aetopia/Bucket/main/lunarclient/lunarclient.ps1 | iex"
   ]
 }

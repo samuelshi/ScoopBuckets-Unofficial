@@ -2,7 +2,7 @@
   "version": "1.5.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/carbonetes/jacked/releases/download/v1.5.0/jacked_1.5.0_windows_amd64.zip",
+      "url": "https://ghp.ci/https://github.com/carbonetes/jacked/releases/download/v1.5.0/jacked_1.5.0_windows_amd64.zip",
       "bin": [
         "jacked.exe"
       ],

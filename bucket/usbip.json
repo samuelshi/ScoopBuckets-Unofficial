@@ -10,17 +10,17 @@
     "usbip install"
   ],
   "url": [
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usb.ids",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip.exe",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbipd.exe",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_root.inf",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_stub.cer",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_stub.inx",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_stub.sys",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_test.pfx",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_vhci.cat",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_vhci.inf",
-    "https://mirror.ghproxy.com/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_vhci.sys"
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usb.ids",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip.exe",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbipd.exe",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_root.inf",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_stub.cer",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_stub.inx",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_stub.sys",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_test.pfx",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_vhci.cat",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_vhci.inf",
+    "https://ghp.ci/https://github.com/cezanne/usbip-win/releases/download/v0.2.0/usbip_vhci.sys"
   ],
   "hash": [
     "sha1:05027a9aa21e28e5cc04d65fba5a6b0d232b8e8b",

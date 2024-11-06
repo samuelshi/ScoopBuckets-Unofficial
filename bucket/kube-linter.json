@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/stackrox/kube-linter/releases/download/v0.6.7/kube-linter.exe",
+      "url": "https://ghp.ci/https://github.com/stackrox/kube-linter/releases/download/v0.6.7/kube-linter.exe",
       "hash": "9568e56e869d17912fe0ba8e6e19f04f7ba4fac70fb486f0b6dacd72a0333ef9"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/stackrox/kube-linter/releases/download/v$version/kube-linter.exe"
+        "url": "https://ghp.ci/https://github.com/stackrox/kube-linter/releases/download/v$version/kube-linter.exe"
       }
     }
   }

@@ -22,7 +22,7 @@
     "script": "Invoke-ExternalCommand \"$dir\\$fname\" -ArgumentList '/install', '/quiet', '/norestart' -RunAs | Out-Null"
   },
   "checkver": {
-    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dotnet/core/main/release-notes/3.1/releases.json",
+    "url": "https://ghp.ci/https://raw.githubusercontent.com/dotnet/core/main/release-notes/3.1/releases.json",
     "jsonpath": "$.latest-release"
   },
   "autoupdate": {

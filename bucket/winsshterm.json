@@ -13,11 +13,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.32.2/WinSSHTerm-2.32.2-x64.zip",
+      "url": "https://ghp.ci/https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.32.2/WinSSHTerm-2.32.2-x64.zip",
       "hash": "4b82e1eb6cf668da7ce7aff174e92b9664077b03dd04323eb52b0514f9645ccd"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.32.2/WinSSHTerm-2.32.2-arm64.zip",
+      "url": "https://ghp.ci/https://github.com/WinSSHTerm/WinSSHTerm/releases/download/2.32.2/WinSSHTerm-2.32.2-arm64.zip",
       "hash": "6d4be5df4fdbb05ed098e026a6caa37d8131f644f9fccfe6ec506b90142efde4"
     }
   },
@@ -69,10 +69,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/WinSSHTerm/WinSSHTerm/releases/download/$version/WinSSHTerm-$version-x64.zip"
+        "url": "https://ghp.ci/https://github.com/WinSSHTerm/WinSSHTerm/releases/download/$version/WinSSHTerm-$version-x64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/WinSSHTerm/WinSSHTerm/releases/download/$version/WinSSHTerm-$version-arm64.zip"
+        "url": "https://ghp.ci/https://github.com/WinSSHTerm/WinSSHTerm/releases/download/$version/WinSSHTerm-$version-arm64.zip"
       }
     },
     "hash": {

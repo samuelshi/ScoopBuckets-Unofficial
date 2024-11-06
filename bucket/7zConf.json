@@ -1,7 +1,7 @@
 {
   "version": "latest",
   "description": "7zConf",
-  "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/7-zip/install-context.reg",
+  "url": "https://ghp.ci/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/7-zip/install-context.reg",
   "post_install": [
     "cd $dir",
     "ls",

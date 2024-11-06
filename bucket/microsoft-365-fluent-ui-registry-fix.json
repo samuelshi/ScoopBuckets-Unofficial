@@ -1,5 +1,5 @@
 {
-  "$schema": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
+  "$schema": "https://ghp.ci/https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
   "version": "1.0.0",
   "description": "Fix Microsoft 365 registry. This enables Fluent UI for Microsoft 365.",
   "url": "https://example.com/index.html",

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ebkr/r2modmanPlus/releases/download/v3.1.46/r2modman-3.1.46.exe#/r2modman.exe",
+      "url": "https://ghp.ci/https://github.com/ebkr/r2modmanPlus/releases/download/v3.1.46/r2modman-3.1.46.exe#/r2modman.exe",
       "hash": "3f58bd61f9ceecb6b1c93dc5fe2b976253ee06c07c7eacd3c7606ce672f023cb"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ebkr/r2modmanPlus/releases/download/v$version/r2modman-$version.exe#/r2modman.exe"
+        "url": "https://ghp.ci/https://github.com/ebkr/r2modmanPlus/releases/download/v$version/r2modman-$version.exe#/r2modman.exe"
       }
     }
   }

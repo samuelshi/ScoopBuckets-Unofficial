@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/anchore/syft/releases/download/v0.103.1/syft_0.103.1_windows_amd64.zip",
+      "url": "https://ghp.ci/https://github.com/anchore/syft/releases/download/v0.103.1/syft_0.103.1_windows_amd64.zip",
       "hash": "fd2204b44cbadbc84af50740b0005341c269420ec8c234f51250ea4c0b1a02e9"
     }
   },
@@ -14,11 +14,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/anchore/syft/releases/download/v$version/syft_$version_windows_amd64.zip"
+        "url": "https://ghp.ci/https://github.com/anchore/syft/releases/download/v$version/syft_$version_windows_amd64.zip"
       }
     },
     "hash": {
-      "url": "https://mirror.ghproxy.com/https://github.com/anchore/syft/releases/download/v$version/syft_$version_checksums.txt"
+      "url": "https://ghp.ci/https://github.com/anchore/syft/releases/download/v$version/syft_$version_checksums.txt"
     }
   }
 }

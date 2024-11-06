@@ -3,7 +3,7 @@
   "description": "C/C++ dependency manager from Microsoft For all platforms, buildsystems, and workflows",
   "homepage": "https://vcpkg.io/",
   "license": "MIT",
-  "url": "https://mirror.ghproxy.com/https://github.com/microsoft/vcpkg/archive/refs/tags/2024.01.12.zip",
+  "url": "https://ghp.ci/https://github.com/microsoft/vcpkg/archive/refs/tags/2024.01.12.zip",
   "hash": "7d954679548c2b149e101b69223937bb2949fc64d405b31465d07db8363b7f73",
   "extract_dir": "vcpkg-2024.01.12",
   "installer": {
@@ -28,7 +28,7 @@
     "github": "https://github.com/microsoft/vcpkg/"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/microsoft/vcpkg/archive/refs/tags/$version.zip",
+    "url": "https://ghp.ci/https://github.com/microsoft/vcpkg/archive/refs/tags/$version.zip",
     "extract_dir": "vcpkg-$version"
   }
 }

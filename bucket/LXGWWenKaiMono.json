@@ -4,9 +4,9 @@
   "homepage": "https://github.com/lxgw/LxgwWenKai",
   "license": "OFL-1.1",
   "url": [
-    "https://mirror.ghproxy.com/https://github.com/lxgw/LxgwWenKai/releases/download/v1.315/LXGWWenKaiMono-Bold.ttf",
-    "https://mirror.ghproxy.com/https://github.com/lxgw/LxgwWenKai/releases/download/v1.315/LXGWWenKaiMono-Light.ttf",
-    "https://mirror.ghproxy.com/https://github.com/lxgw/LxgwWenKai/releases/download/v1.315/LXGWWenKaiMono-Regular.ttf"
+    "https://ghp.ci/https://github.com/lxgw/LxgwWenKai/releases/download/v1.315/LXGWWenKaiMono-Bold.ttf",
+    "https://ghp.ci/https://github.com/lxgw/LxgwWenKai/releases/download/v1.315/LXGWWenKaiMono-Light.ttf",
+    "https://ghp.ci/https://github.com/lxgw/LxgwWenKai/releases/download/v1.315/LXGWWenKaiMono-Regular.ttf"
   ],
   "hash": [
     "fef8a19732dce0558c7cd53006f5ab44fc2a718e1ae31c00f20cbfd4ca9a3189",
@@ -96,9 +96,9 @@
   "checkver": "github",
   "autoupdate": {
     "url": [
-      "https://mirror.ghproxy.com/https://github.com/lxgw/LxgwWenKai/releases/download/v$version/LXGWWenKaiMono-Bold.ttf",
-      "https://mirror.ghproxy.com/https://github.com/lxgw/LxgwWenKai/releases/download/v$version/LXGWWenKaiMono-Light.ttf",
-      "https://mirror.ghproxy.com/https://github.com/lxgw/LxgwWenKai/releases/download/v$version/LXGWWenKaiMono-Regular.ttf"
+      "https://ghp.ci/https://github.com/lxgw/LxgwWenKai/releases/download/v$version/LXGWWenKaiMono-Bold.ttf",
+      "https://ghp.ci/https://github.com/lxgw/LxgwWenKai/releases/download/v$version/LXGWWenKaiMono-Light.ttf",
+      "https://ghp.ci/https://github.com/lxgw/LxgwWenKai/releases/download/v$version/LXGWWenKaiMono-Regular.ttf"
     ]
   }
 }

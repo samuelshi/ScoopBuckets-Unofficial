@@ -5,7 +5,7 @@
   "license": "Unknown",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/D1firehail/AdeptiScanner-GI/releases/download/V2.3.0/AdeptiScanner.V2.3.0.zip",
+      "url": "https://ghp.ci/https://github.com/D1firehail/AdeptiScanner-GI/releases/download/V2.3.0/AdeptiScanner.V2.3.0.zip",
       "hash": "6425aeb47cc8ad2f3a665c6b69b264aad995b8df7c727d4c660d058e922442e3",
       "extract_dir": "AdeptiScanner"
     }
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/D1firehail/AdeptiScanner-GI/releases/download/V$version/AdeptiScanner.V$version.zip",
+        "url": "https://ghp.ci/https://github.com/D1firehail/AdeptiScanner-GI/releases/download/V$version/AdeptiScanner.V$version.zip",
         "extract_dir": "AdeptiScanner"
       }
     }

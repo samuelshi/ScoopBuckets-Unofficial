@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/tldr-pages/tlrc/releases/download/v1.8.0/tlrc-v1.8.0-x86_64-pc-windows-msvc.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/tldr-pages/tlrc/releases/download/v1.8.0/tlrc-v1.8.0-x86_64-pc-windows-msvc.zip",
       "hash": "2b901fc3e31853e55b39c5d62c0c3c71f260422a9931cb7a326f018a9f482397"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/tldr-pages/tlrc/releases/download/v$version/tlrc-v$version-x86_64-pc-windows-msvc.zip"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/tldr-pages/tlrc/releases/download/v$version/tlrc-v$version-x86_64-pc-windows-msvc.zip"
       }
     }
   }

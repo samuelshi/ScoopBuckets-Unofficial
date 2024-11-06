@@ -6,7 +6,7 @@
   "suggest": {
     "JDK": "openjdk"
   },
-  "url": "https://mirror.ghproxy.com/https://github.com/jbangdev/jbang/releases/download/v0.114.0/jbang-0.114.0.zip",
+  "url": "https://ghp.ci/https://github.com/jbangdev/jbang/releases/download/v0.114.0/jbang-0.114.0.zip",
   "hash": "660c7eb2eda888897f20aa5c5927ccfed924f3b86d5f2a2477a7b0235cdc94bb",
   "extract_dir": "jbang-0.114.0",
   "env_add_path": "bin",
@@ -14,7 +14,7 @@
     "github": "https://github.com/jbangdev/jbang"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/jbangdev/jbang/releases/download/v$version/jbang-$version.zip",
+    "url": "https://ghp.ci/https://github.com/jbangdev/jbang/releases/download/v$version/jbang-$version.zip",
     "hash": {
       "url": "$url.sha256"
     },

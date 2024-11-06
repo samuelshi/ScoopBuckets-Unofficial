@@ -2,7 +2,7 @@
   "version": "3.65.1",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/DopplerHQ/cli/releases/download/3.65.1/doppler_3.65.1_windows_amd64.zip",
+      "url": "https://ghp.ci/https://github.com/DopplerHQ/cli/releases/download/3.65.1/doppler_3.65.1_windows_amd64.zip",
       "bin": [
         "doppler.exe"
       ],

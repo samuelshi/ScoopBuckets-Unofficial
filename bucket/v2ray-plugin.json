@@ -6,7 +6,7 @@
   "notes": "",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/teddysun/v2ray-plugin/releases/download/v5.10.0/v2ray-plugin-windows-amd64-v5.10.0.tar.gz",
+      "url": "https://ghp.ci/https://github.com/teddysun/v2ray-plugin/releases/download/v5.10.0/v2ray-plugin-windows-amd64-v5.10.0.tar.gz",
       "hash": "fcfa15e303121aa6377a6e593c12091f6b22dfc1fc7fd68c66d121e6bd19f58f"
     }
   },
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/teddysun/v2ray-plugin/releases/download/v$version/v2ray-plugin-windows-amd64-v$version.tar.gz"
+        "url": "https://ghp.ci/https://github.com/teddysun/v2ray-plugin/releases/download/v$version/v2ray-plugin-windows-amd64-v$version.tar.gz"
       }
     }
   },

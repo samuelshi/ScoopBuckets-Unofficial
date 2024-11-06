@@ -3,11 +3,11 @@
   "description": "Versatile typeface for code, from code.",
   "license": "OFL-1.1",
   "homepage": "https://github.com/be5invis/Iosevka",
-  "url": "https://mirror.ghproxy.com/https://github.com/be5invis/Iosevka/releases/download/v27.3.2/super-ttc-iosevka-ss02-27.3.2.zip",
+  "url": "https://ghp.ci/https://github.com/be5invis/Iosevka/releases/download/v27.3.2/super-ttc-iosevka-ss02-27.3.2.zip",
   "hash": "c03dffd79d63d1212decb3e10e33d2c660f056cb4d8bcdea63e10141a99c2543",
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/be5invis/Iosevka/releases/download/v$version/super-ttc-iosevka-ss02-$version.zip"
+    "url": "https://ghp.ci/https://github.com/be5invis/Iosevka/releases/download/v$version/super-ttc-iosevka-ss02-$version.zip"
   },
   "installer": {
     "script": [

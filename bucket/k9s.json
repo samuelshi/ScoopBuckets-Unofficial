@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/derailed/k9s/releases/download/v0.31.7/k9s_Windows_amd64.zip",
+      "url": "https://ghp.ci/https://github.com/derailed/k9s/releases/download/v0.31.7/k9s_Windows_amd64.zip",
       "hash": "16e442063b05395ea4ea93f56edfbac5f347bcfda85a9c22d5712bd11878e960"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/derailed/k9s/releases/download/v0.31.7/k9s_Windows_arm64.zip",
+      "url": "https://ghp.ci/https://github.com/derailed/k9s/releases/download/v0.31.7/k9s_Windows_arm64.zip",
       "hash": "b904a4b232861893e4b34e04aa78269ad7e2b249c668c6aeac70f474beb2d78b"
     }
   },
@@ -22,10 +22,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/derailed/k9s/releases/download/v$version/k9s_Windows_amd64.zip"
+        "url": "https://ghp.ci/https://github.com/derailed/k9s/releases/download/v$version/k9s_Windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/derailed/k9s/releases/download/v$version/k9s_Windows_arm64.zip"
+        "url": "https://ghp.ci/https://github.com/derailed/k9s/releases/download/v$version/k9s_Windows_arm64.zip"
       }
     },
     "hash": {

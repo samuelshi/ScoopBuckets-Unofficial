@@ -5,11 +5,11 @@
   "license": "NCSA",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.3/LLVM-17.0.3-win64.exe#/dl.7z",
+      "url": "https://ghp.ci/https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.3/LLVM-17.0.3-win64.exe#/dl.7z",
       "hash": "b63a49f10110048283da852bfb81cb3e9573004b5a8286f51d530c7488be217a"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.3/LLVM-17.0.3-win32.exe#/dl.7z",
+      "url": "https://ghp.ci/https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.3/LLVM-17.0.3-win32.exe#/dl.7z",
       "hash": "24a01c024661aad2611405d1b6d090f5995c7f2f70b8e679643dfa1d7de28f51"
     }
   },
@@ -24,10 +24,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/LLVM-$version-win64.exe#/dl.7z"
+        "url": "https://ghp.ci/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/LLVM-$version-win64.exe#/dl.7z"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/LLVM-$version-win32.exe#/dl.7z"
+        "url": "https://ghp.ci/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/LLVM-$version-win32.exe#/dl.7z"
       }
     }
   }

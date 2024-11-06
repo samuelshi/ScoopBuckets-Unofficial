@@ -5,7 +5,7 @@
   "license": "GPL-2.0-only WITH Classpath-exception-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-standard-11.0.21.17_jdk-11.0.21-ga/Alibaba_Dragonwell_Standard_11.0.21.17.9_x64_windows.zip",
+      "url": "https://ghp.ci/https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-standard-11.0.21.17_jdk-11.0.21-ga/Alibaba_Dragonwell_Standard_11.0.21.17.9_x64_windows.zip",
       "hash": "8e7c59d45b7c04d4e5e1f9265558e09ec3ef93a1ffebda6de9b8c5eb0b8894ed"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/dragonwell-project/dragonwell11/releases/download/$matchTag/$matchFilename.zip"
+        "url": "https://ghp.ci/https://github.com/dragonwell-project/dragonwell11/releases/download/$matchTag/$matchFilename.zip"
       }
     },
     "hash": {

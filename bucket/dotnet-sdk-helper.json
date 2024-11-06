@@ -7,7 +7,7 @@
     "0467d56f548383cba57f643fa77ef37efb54884880874206f07ff79f4fe3b038"
   ],
   "url": [
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sytone/dotnet-sdk-cli/master/dotnet-sdks.cmd",
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sytone/dotnet-sdk-cli/master/dotnet-sdks.ps1"
+    "https://ghp.ci/https://raw.githubusercontent.com/sytone/dotnet-sdk-cli/master/dotnet-sdks.cmd",
+    "https://ghp.ci/https://raw.githubusercontent.com/sytone/dotnet-sdk-cli/master/dotnet-sdks.ps1"
   ]
 }

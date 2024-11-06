@@ -5,7 +5,7 @@
   "url": "https://clipweb.oss-cn-qingdao.aliyuncs.com/windows/copies_3_5_1.zip",
   "hash": "0db9ae39391509a396b630cd77977b005c233eb36a47f2f398ad509d26865e0d",
   "checkver": {
-    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/Copies.latest",
+    "url": "https://ghp.ci/https://raw.githubusercontent.com/kkzzhizhou/scoop-zapps/master/versions/Copies.latest",
     "re": "copies_(\\d+)_(\\d+)_(\\d+).zip",
     "replace": "${1}.${2}.${3}"
   },

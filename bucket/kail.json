@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/boz/kail/releases/download/v0.17.3/kail_v0.17.3_windows_amd64.tar.gz",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/boz/kail/releases/download/v0.17.3/kail_v0.17.3_windows_amd64.tar.gz",
       "hash": "2d4733776475d4c8f83f57e5fbc553dc7a81587fbf2c4c4bd4c7bcd021695253"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/boz/kail/releases/download/v0.17.3/kail_v0.17.3_windows_arm64.tar.gz",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/boz/kail/releases/download/v0.17.3/kail_v0.17.3_windows_arm64.tar.gz",
       "hash": "6c7d257f92e546acef48557728ce83c2e49c707f47f5f5faaa537ff9536d820d"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/boz/kail/releases/download/v$version/kail_v$version_windows_amd64.tar.gz"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/boz/kail/releases/download/v$version/kail_v$version_windows_amd64.tar.gz"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/boz/kail/releases/download/v$version/kail_v$version_windows_arm64.tar.gz"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/boz/kail/releases/download/v$version/kail_v$version_windows_arm64.tar.gz"
       }
     },
     "hash": {

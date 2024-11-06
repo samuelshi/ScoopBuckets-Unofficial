@@ -2,7 +2,7 @@
   "version": "1.14.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/artifacthub/hub/releases/download/v1.14.0/ah_1.14.0_windows_amd64.zip",
+      "url": "https://ghp.ci/https://github.com/artifacthub/hub/releases/download/v1.14.0/ah_1.14.0_windows_amd64.zip",
       "bin": [
         "ah.exe"
       ],

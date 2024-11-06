@@ -5,7 +5,7 @@
   "license": "LGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/tonquer/JMComic-qt/releases/download/v1.1.6/jmcomic_v1.1.6_windows_x64.zip",
+      "url": "https://ghp.ci/https://github.com/tonquer/JMComic-qt/releases/download/v1.1.6/jmcomic_v1.1.6_windows_x64.zip",
       "hash": "e92957374f3e5720d5b5d64b0ce7263061c110542cb855b079b6301168333916"
     }
   },
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/tonquer/JMComic-qt/releases/download/v$version/jmcomic_v$version_windows_x64.zip"
+        "url": "https://ghp.ci/https://github.com/tonquer/JMComic-qt/releases/download/v$version/jmcomic_v$version_windows_x64.zip"
       }
     },
     "extract_dir": "jmcomic_v$version_windows_x64\\jmcomic"

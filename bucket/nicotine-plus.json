@@ -5,7 +5,7 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/nicotine-plus/nicotine-plus/releases/download/3.3.0/windows-x86_64-package.zip",
+      "url": "https://ghp.ci/https://github.com/nicotine-plus/nicotine-plus/releases/download/3.3.0/windows-x86_64-package.zip",
       "hash": "fc7dc3365a726b2b40af7011654d1b9901365fee14b99f140d2667788c002d25"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/nicotine-plus/nicotine-plus/releases/download/$version/windows-x86_64-package.zip"
+        "url": "https://ghp.ci/https://github.com/nicotine-plus/nicotine-plus/releases/download/$version/windows-x86_64-package.zip"
       }
     },
     "hash": {

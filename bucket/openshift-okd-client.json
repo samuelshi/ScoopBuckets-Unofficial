@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/openshift/okd/releases/download/4.15.0-0.okd-2024-01-27-070424/openshift-client-windows-4.15.0-0.okd-2024-01-27-070424.zip",
+      "url": "https://ghp.ci/https://github.com/openshift/okd/releases/download/4.15.0-0.okd-2024-01-27-070424/openshift-client-windows-4.15.0-0.okd-2024-01-27-070424.zip",
       "hash": "4a55748cd50a2c01ad7a57f273ed843554345a2f02e0a3667c147183b17a5cca"
     }
   },
@@ -17,10 +17,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/openshift/okd/releases/download/$version/openshift-client-windows-$version.zip",
+        "url": "https://ghp.ci/https://github.com/openshift/okd/releases/download/$version/openshift-client-windows-$version.zip",
         "hash": {
           "mode": "extract",
-          "url": "https://mirror.ghproxy.com/https://github.com/openshift/okd/releases/download/$version/sha256sum.txt",
+          "url": "https://ghp.ci/https://github.com/openshift/okd/releases/download/$version/sha256sum.txt",
           "find": "([a-fA-F0-9]{64})\\s+\\./openshift-client-windows-$version.zip"
         }
       }

@@ -4,9 +4,9 @@
   "version": "1.0.4",
   "license": "Freeware",
   "url": [
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianzhijiexian/scoop-packages/master/ahk-scripts/mouse.exe",
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianzhijiexian/scoop-packages/master/ahk-scripts/drag.exe",
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianzhijiexian/scoop-packages/master/ahk-scripts/mmap.exe"
+    "https://ghp.ci/https://raw.githubusercontent.com/tianzhijiexian/scoop-packages/master/ahk-scripts/mouse.exe",
+    "https://ghp.ci/https://raw.githubusercontent.com/tianzhijiexian/scoop-packages/master/ahk-scripts/drag.exe",
+    "https://ghp.ci/https://raw.githubusercontent.com/tianzhijiexian/scoop-packages/master/ahk-scripts/mmap.exe"
   ],
   "hash": [
     "26347B65FB2BCDB782FD71D036B0AF799C88F875D25F91FAE10D4DAF1A42DAE9",

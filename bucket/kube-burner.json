@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cloud-bulldozer/kube-burner/releases/download/v1.8.1/kube-burner-V1.8.1-windows-x86_64.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/cloud-bulldozer/kube-burner/releases/download/v1.8.1/kube-burner-V1.8.1-windows-x86_64.zip",
       "hash": "9c2362fc10d15adbddf4a515a789c7bb07e180c1fe109587aedd1f6ce7458deb"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cloud-bulldozer/kube-burner/releases/download/v1.8.1/kube-burner-V1.8.1-windows-arm64.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/cloud-bulldozer/kube-burner/releases/download/v1.8.1/kube-burner-V1.8.1-windows-arm64.zip",
       "hash": "0064620cf9a2f0691ef55633d28d88da9df2eba78e736948c4574bf92c205cfc"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cloud-bulldozer/kube-burner/releases/download/v$version/kube-burner-V$version-windows-x86_64.zip"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/cloud-bulldozer/kube-burner/releases/download/v$version/kube-burner-V$version-windows-x86_64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cloud-bulldozer/kube-burner/releases/download/v$version/kube-burner-V$version-windows-arm64.zip"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/cloud-bulldozer/kube-burner/releases/download/v$version/kube-burner-V$version-windows-arm64.zip"
       }
     },
     "hash": {

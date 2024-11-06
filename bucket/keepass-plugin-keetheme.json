@@ -4,7 +4,7 @@
   "homepage": "https://github.com/xatupal/KeeTheme",
   "license": "MIT",
   "depends": "extras/keepass",
-  "url": "https://mirror.ghproxy.com/https://github.com/xatupal/KeeTheme/releases/download/v0.10.5/KeeTheme.plgx",
+  "url": "https://ghp.ci/https://github.com/xatupal/KeeTheme/releases/download/v0.10.5/KeeTheme.plgx",
   "hash": "4b7e22758c05eb35a6e243eddcee3c9b10fe5de58ff380cac43a5d0dea76adef",
   "installer": {
     "script": "Copy-Item \"$dir\\KeeTheme.plgx\" \"$(appdir keepass $global)\\current\\Plugins\" -Recurse"
@@ -14,6 +14,6 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/xatupal/KeeTheme/releases/download/v$version/KeeTheme.plgx"
+    "url": "https://ghp.ci/https://github.com/xatupal/KeeTheme/releases/download/v$version/KeeTheme.plgx"
   }
 }

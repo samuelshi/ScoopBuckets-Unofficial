@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/bloznelis/typioca/releases/download/2.9.0/typioca-win-amd64.exe#/typioca.exe",
+      "url": "https://ghp.ci/https://github.com/bloznelis/typioca/releases/download/2.9.0/typioca-win-amd64.exe#/typioca.exe",
       "hash": "49c0e9a4a2f971e83ca31b8e87a2da60dd024d67e48d5aa48dd4440d426fc6b8"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/bloznelis/typioca/releases/download/2.9.0/typioca-win-arm64.exe#/typioca.exe",
+      "url": "https://ghp.ci/https://github.com/bloznelis/typioca/releases/download/2.9.0/typioca-win-arm64.exe#/typioca.exe",
       "hash": "dc6d19a41c4e0b7a1cc9106430f65b3297a0af46b6ca09f6359d888e216cae32"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/bloznelis/typioca/releases/download/$version/typioca-win-amd64.exe#/typioca.exe"
+        "url": "https://ghp.ci/https://github.com/bloznelis/typioca/releases/download/$version/typioca-win-amd64.exe#/typioca.exe"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/bloznelis/typioca/releases/download/$version/typioca-win-arm64.exe#/typioca.exe"
+        "url": "https://ghp.ci/https://github.com/bloznelis/typioca/releases/download/$version/typioca-win-arm64.exe#/typioca.exe"
       }
     }
   }

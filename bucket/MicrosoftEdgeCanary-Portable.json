@@ -7,7 +7,7 @@
     "64bit": {
       "url": [
         "https://dorado-api.deno.dev/edge?arch=64&channel=canary&version=120.0.2186.0&dl#/dl.7z",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ACooper81/SharedFiles/master/icons/msedgecanary.ico"
+        "https://ghp.ci/https://raw.githubusercontent.com/ACooper81/SharedFiles/master/icons/msedgecanary.ico"
       ],
       "hash": [
         "2435a1f7699544ff00fd6d2f0914aa3b78381c1bb6be3881a18fd4db24984034",

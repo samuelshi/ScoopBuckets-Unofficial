@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/download/v1.5.1/BiliBili-Manga-Downloader_windows_amd64.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/download/v1.5.1/BiliBili-Manga-Downloader_windows_amd64.zip",
       "hash": "208eea0153fe382f2c99a486b9344cb2dc436f7f920d11c5e6206dcfdee62412"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/download/v$version/BiliBili-Manga-Downloader_windows_amd64.zip"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/Zeal-L/BiliBili-Manga-Downloader/releases/download/v$version/BiliBili-Manga-Downloader_windows_amd64.zip"
       }
     }
   }

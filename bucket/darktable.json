@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/darktable-org/darktable/releases/download/release-4.6.0/darktable-4.6.0-win64.exe#/dl.7z",
+      "url": "https://ghp.ci/https://github.com/darktable-org/darktable/releases/download/release-4.6.0/darktable-4.6.0-win64.exe#/dl.7z",
       "hash": "765fc4d9e67937663253f7cc4d20d4ba829e910ff92626c06dc0846e2ddc77de"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/darktable-org/darktable/releases/download/release-$matchHead/darktable-$version-win64.exe#/dl.7z",
+        "url": "https://ghp.ci/https://github.com/darktable-org/darktable/releases/download/release-$matchHead/darktable-$version-win64.exe#/dl.7z",
         "hash": {
           "url": "https://github.com/darktable-org/darktable/releases/tag/release-$matchHead"
         }

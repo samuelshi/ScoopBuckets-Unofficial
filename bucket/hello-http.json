@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/sunny-chung/hello-http/releases/download/v1.4.5/HelloHTTP-v1.4.5-windows-X64.zip",
+      "url": "https://ghp.ci/https://github.com/sunny-chung/hello-http/releases/download/v1.4.5/HelloHTTP-v1.4.5-windows-X64.zip",
       "hash": "0d2137c939b24ecc162821ba2dfd56f6ce0901f04eba6f129668f3dcd8189e82"
     }
   },
@@ -23,7 +23,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/sunny-chung/hello-http/releases/download/v$version/HelloHTTP-v$version-windows-X64.zip"
+        "url": "https://ghp.ci/https://github.com/sunny-chung/hello-http/releases/download/v$version/HelloHTTP-v$version-windows-X64.zip"
       }
     }
   }

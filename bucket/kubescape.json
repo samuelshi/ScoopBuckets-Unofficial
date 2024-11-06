@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/kubescape/kubescape/releases/download/v3.0.3/kubescape.exe",
+      "url": "https://ghp.ci/https://github.com/kubescape/kubescape/releases/download/v3.0.3/kubescape.exe",
       "hash": "8bee67f8ac13d638de02de1951fb1a04ef0f49314aaa3863bb62b21879c4a605"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/kubescape/kubescape/releases/download/v$version/kubescape.exe"
+        "url": "https://ghp.ci/https://github.com/kubescape/kubescape/releases/download/v$version/kubescape.exe"
       }
     }
   }

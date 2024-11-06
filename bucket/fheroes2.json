@@ -12,11 +12,11 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ihhub/fheroes2/releases/download/1.0.11/fheroes2_windows_x64_SDL2.zip",
+      "url": "https://ghp.ci/https://github.com/ihhub/fheroes2/releases/download/1.0.11/fheroes2_windows_x64_SDL2.zip",
       "hash": "f41ac2073ced91cd280c2b7e58f32fcc3f8b4c4f8015b65b72ca34e95130802c"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ihhub/fheroes2/releases/download/1.0.11/fheroes2_windows_x86_SDL2.zip",
+      "url": "https://ghp.ci/https://github.com/ihhub/fheroes2/releases/download/1.0.11/fheroes2_windows_x86_SDL2.zip",
       "hash": "48b5a7a50181d0ba0db3fc00607661d739b17d92c984146b544969d468eecfff"
     }
   },
@@ -36,10 +36,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ihhub/fheroes2/releases/download/$version/fheroes2_windows_x64_SDL2.zip"
+        "url": "https://ghp.ci/https://github.com/ihhub/fheroes2/releases/download/$version/fheroes2_windows_x64_SDL2.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ihhub/fheroes2/releases/download/$version/fheroes2_windows_x86_SDL2.zip"
+        "url": "https://ghp.ci/https://github.com/ihhub/fheroes2/releases/download/$version/fheroes2_windows_x86_SDL2.zip"
       }
     }
   }

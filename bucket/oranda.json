@@ -5,7 +5,7 @@
   "license": "MIT|Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/axodotdev/oranda/releases/download/v0.6.1/oranda-x86_64-pc-windows-msvc.tar.gz",
+      "url": "https://ghp.ci/https://github.com/axodotdev/oranda/releases/download/v0.6.1/oranda-x86_64-pc-windows-msvc.tar.gz",
       "hash": "2806d2ca21b0f388caa3a946096e9c73be8c84631ba7c27f430014f0ef61127a"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/axodotdev/oranda/releases/download/v$version/oranda-x86_64-pc-windows-msvc.tar.gz"
+        "url": "https://ghp.ci/https://github.com/axodotdev/oranda/releases/download/v$version/oranda-x86_64-pc-windows-msvc.tar.gz"
       }
     },
     "hash": {

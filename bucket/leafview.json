@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/sprout2000/leafview/releases/download/v2.7.2/LeafView-2.7.2-win32-x64.zip",
+      "url": "https://ghp.ci/https://github.com/sprout2000/leafview/releases/download/v2.7.2/LeafView-2.7.2-win32-x64.zip",
       "hash": "0689bf0fc3fbd92242350d6adf8e078b40f0aaa3fedea942a97242fe2d7116a9"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/sprout2000/leafview/releases/download/v$version/LeafView-$version-win32-x64.zip"
+        "url": "https://ghp.ci/https://github.com/sprout2000/leafview/releases/download/v$version/LeafView-$version-win32-x64.zip"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/tiny-craft/tiny-rdm/releases/download/v1.1.2/TinyRDM_Portable_1.1.2_windows_amd64.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/tiny-craft/tiny-rdm/releases/download/v1.1.2/TinyRDM_Portable_1.1.2_windows_amd64.zip",
       "hash": "d47d130c769da4358737aa56d2fa23867964267cdeb5470905d4889eecb8d257"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/tiny-craft/tiny-rdm/releases/download/v$version/TinyRDM_Portable_$version_windows_amd64.zip"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/tiny-craft/tiny-rdm/releases/download/v$version/TinyRDM_Portable_$version_windows_amd64.zip"
       }
     }
   }

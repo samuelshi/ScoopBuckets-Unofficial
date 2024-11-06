@@ -5,7 +5,7 @@
   "license": "Unknown",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/zhanglun/lettura/releases/download/v0.1.9-2/Lettura_0.1.9-2_x64-setup.exe#/dl.7z",
+      "url": "https://ghp.ci/https://github.com/zhanglun/lettura/releases/download/v0.1.9-2/Lettura_0.1.9-2_x64-setup.exe#/dl.7z",
       "hash": "f2bc9b193daafd0a64f09d67f18faa08ee45c9322754a6433745ae8b8e147d93"
     }
   },
@@ -37,7 +37,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/zhanglun/lettura/releases/download/v$version/Lettura_$version_x64-setup.exe#/dl.7z"
+        "url": "https://ghp.ci/https://github.com/zhanglun/lettura/releases/download/v$version/Lettura_$version_x64-setup.exe#/dl.7z"
       }
     }
   }

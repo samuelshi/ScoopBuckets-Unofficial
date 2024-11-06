@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/xaoyaoo/PyWxDump/releases/download/v2.3.27/wxdump.exe",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/xaoyaoo/PyWxDump/releases/download/v2.3.27/wxdump.exe",
       "hash": "7375514527628b085a4c0857f7fec6bfef6088d92547d761ac7991d7f30d9100"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/xaoyaoo/PyWxDump/releases/download/v$version/$matchFile"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/xaoyaoo/PyWxDump/releases/download/v$version/$matchFile"
       }
     }
   }

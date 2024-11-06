@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/JoeanAmier/XHS-Downloader/releases/download/1.7/XHS-Downloader_V1.7_WIN.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/JoeanAmier/XHS-Downloader/releases/download/1.7/XHS-Downloader_V1.7_WIN.zip",
       "hash": "6d1e2b3bb1201f6e101b5721be4d4f8a53653a7df96b73609ac65b708cafb066"
     }
   },
@@ -26,7 +26,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/JoeanAmier/XHS-Downloader/releases/download/$version/$matchFile"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/JoeanAmier/XHS-Downloader/releases/download/$version/$matchFile"
       }
     }
   }

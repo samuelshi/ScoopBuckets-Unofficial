@@ -648,7 +648,7 @@ bucket/CRID-usm-Decrypter.json, anderlli0053/DEV-tools, 1
 bucket/CSVed.json, anderlli0053/DEV-tools, 0
 bucket/CSVsort.json, anderlli0053/DEV-tools, 0
 bucket/CTTWindowsUtility-Script.json, anderlli0053/DEV-tools, 0
-bucket/CabMaker.json, anderlli0053/DEV-tools, 0
+bucket/CabMaker.json, anderlli0053/DEV-tools, 1
 bucket/Cache-Relocator.json, anderlli0053/DEV-tools, 0
 bucket/CaesiumPortable.json, anderlli0053/DEV-tools, 0
 bucket/Caffeinated-Portable.json, anderlli0053/DEV-tools, 0
@@ -1969,7 +1969,7 @@ bucket/Mellow_Paxxs.json, anderlli0053/DEV-tools, 1
 bucket/MemCheck.json, anderlli0053/DEV-tools, 0
 bucket/MemCheck_dodorz.json, anderlli0053/DEV-tools, 0
 bucket/MemPad.json, anderlli0053/DEV-tools, 0
-bucket/MemoTrace.json, anderlli0053/DEV-tools, 0
+bucket/MemoTrace.json, anderlli0053/DEV-tools, 1
 bucket/Mendeley_dodorz.json, anderlli0053/DEV-tools, 0
 bucket/MengNa-LiShu.json, anderlli0053/DEV-tools, 0
 bucket/MergeGen.json, anderlli0053/DEV-tools, 1
@@ -2521,7 +2521,7 @@ bucket/PowerShellUniversal-Install.json, anderlli0053/DEV-tools, 0
 bucket/PowerShellWindows.json, anderlli0053/DEV-tools, 1
 bucket/PowerToys-Install.json, anderlli0053/DEV-tools, 1
 bucket/PowerToys-Portable.json, anderlli0053/DEV-tools, 1
-bucket/PowerToys-UserInstall.json, anderlli0053/DEV-tools, 0
+bucket/PowerToys-UserInstall.json, anderlli0053/DEV-tools, 1
 bucket/PowertoysNp.json, anderlli0053/DEV-tools, 1
 bucket/PragmataproFont.json, anderlli0053/DEV-tools, 0
 bucket/PrePoMax.json, anderlli0053/DEV-tools, 0
@@ -2628,7 +2628,7 @@ bucket/QuickCut.json, anderlli0053/DEV-tools, 1
 bucket/QuickHash.json, anderlli0053/DEV-tools, 0
 bucket/QuickPokerPortable.json, anderlli0053/DEV-tools, 0
 bucket/QuickSolitairePortable.json, anderlli0053/DEV-tools, 0
-bucket/QuickSwitch.json, anderlli0053/DEV-tools, 0
+bucket/QuickSwitch.json, anderlli0053/DEV-tools, 1
 bucket/Quicker.json, anderlli0053/DEV-tools, 0
 bucket/Quicker_dodorz.json, anderlli0053/DEV-tools, 0
 bucket/Quicker_zhoujin7.json, anderlli0053/DEV-tools, 0
@@ -3174,7 +3174,7 @@ bucket/TCPViewPortable.json, anderlli0053/DEV-tools, 0
 bucket/TEDNPad.json, anderlli0053/DEV-tools, 0
 bucket/TEncoder.json, anderlli0053/DEV-tools, 0
 bucket/TEncoderPortable.json, anderlli0053/DEV-tools, 0
-bucket/TMSpeech.json, anderlli0053/DEV-tools, 0
+bucket/TMSpeech.json, anderlli0053/DEV-tools, 1
 bucket/TWLogAIAN.json, anderlli0053/DEV-tools, 1
 bucket/Tabby_dodorz.json, anderlli0053/DEV-tools, 1
 bucket/TableauDesktop.json, anderlli0053/DEV-tools, 0
@@ -3389,10 +3389,10 @@ bucket/UltraCopier-ims.json, anderlli0053/DEV-tools, 0
 bucket/UltraCopier.json, anderlli0053/DEV-tools, 0
 bucket/UltraDefragPortable.json, anderlli0053/DEV-tools, 0
 bucket/UltraSearch_dodorz.json, anderlli0053/DEV-tools, 0
-bucket/UltraUXThemePatcher.json, anderlli0053/DEV-tools, 0
+bucket/UltraUXThemePatcher.json, anderlli0053/DEV-tools, 1
 bucket/UltracomparePro.json, anderlli0053/DEV-tools, 1
 bucket/UmaAi.json, anderlli0053/DEV-tools, 1
-bucket/UmamusumeResponseAnalyzer.json, anderlli0053/DEV-tools, 0
+bucket/UmamusumeResponseAnalyzer.json, anderlli0053/DEV-tools, 1
 bucket/Umi-OCR-All-Language.json, anderlli0053/DEV-tools, 1
 bucket/Umi-OCR-DLC-Language.json, anderlli0053/DEV-tools, 1
 bucket/Umi-OCR2-Paddle.json, anderlli0053/DEV-tools, 1
@@ -3422,7 +3422,7 @@ bucket/UniversalWatermarkDisabler-Portable.json, anderlli0053/DEV-tools, 0
 bucket/Unlocker-Portable.json, anderlli0053/DEV-tools, 1
 bucket/UnrealCommander.json, anderlli0053/DEV-tools, 1
 bucket/UnstoppableCopier.json, anderlli0053/DEV-tools, 0
-bucket/UpdateHub-Portable.json, anderlli0053/DEV-tools, 0
+bucket/UpdateHub-Portable.json, anderlli0053/DEV-tools, 1
 bucket/UpdateManagerForWindows-Portable.json, anderlli0053/DEV-tools, 1
 bucket/UsbNetworkGate.json, anderlli0053/DEV-tools, 0
 bucket/UsbTreeView.json, anderlli0053/DEV-tools, 0
@@ -3532,7 +3532,7 @@ bucket/WPS-CN.json, anderlli0053/DEV-tools, 0
 bucket/WPSCN.json, anderlli0053/DEV-tools, 0
 bucket/WPSOffice-Portable.json, anderlli0053/DEV-tools, 0
 bucket/WSA-with-magisk-GApps-pico.json, anderlli0053/DEV-tools, 1
-bucket/WSABuild.json, anderlli0053/DEV-tools, 0
+bucket/WSABuild.json, anderlli0053/DEV-tools, 1
 bucket/WSL-Ubuntu-1804.json, anderlli0053/DEV-tools, 1
 bucket/WSL-Ubuntu-2004.json, anderlli0053/DEV-tools, 1
 bucket/WSL2DistroManager-Portable.json, anderlli0053/DEV-tools, 1
@@ -3643,7 +3643,7 @@ bucket/WindowInspector-Portable.json, anderlli0053/DEV-tools, 0
 bucket/WindowTop-Portable.json, anderlli0053/DEV-tools, 1
 bucket/WindowTop_ygguorun.json, anderlli0053/DEV-tools, 1
 bucket/Windows-Terminal_dodorz.json, anderlli0053/DEV-tools, 1
-bucket/Windows-Theme-HighContract-Tokyo-Night.json, anderlli0053/DEV-tools, 0
+bucket/Windows-Theme-HighContract-Tokyo-Night.json, anderlli0053/DEV-tools, 1
 bucket/Windows-kernel-exploits.json, anderlli0053/DEV-tools, 1
 bucket/Windows-screenFetch-alt.json, anderlli0053/DEV-tools, 1
 bucket/Windows-screenFetch.json, anderlli0053/DEV-tools, 1
@@ -3851,7 +3851,7 @@ bucket/Zotero-Install.json, anderlli0053/DEV-tools, 0
 bucket/_7zip.json, anderlli0053/DEV-tools, 0
 bucket/a-sharper-scaling.json, anderlli0053/DEV-tools, 0
 bucket/a2048.json, anderlli0053/DEV-tools, 1
-bucket/a2fa.json, anderlli0053/DEV-tools, 0
+bucket/a2fa.json, anderlli0053/DEV-tools, 1
 bucket/a5m2.json, anderlli0053/DEV-tools, 0
 bucket/a5m2_read.json, anderlli0053/DEV-tools, 0
 bucket/a5m2beta.json, anderlli0053/DEV-tools, 0
@@ -3882,7 +3882,7 @@ bucket/ac-aoks.json, anderlli0053/DEV-tools, 0
 bucket/acadbp.json, anderlli0053/DEV-tools, 1
 bucket/accentcolorizer-static.json, anderlli0053/DEV-tools, 1
 bucket/accentcolorizer.json, anderlli0053/DEV-tools, 1
-bucket/access.json, anderlli0053/DEV-tools, 0
+bucket/access.json, anderlli0053/DEV-tools, 1
 bucket/accesschk.json, anderlli0053/DEV-tools, 1
 bucket/accesschk_mo-san.json, anderlli0053/DEV-tools, 0
 bucket/accesschk_mogeko.json, anderlli0053/DEV-tools, 0
@@ -3915,7 +3915,7 @@ bucket/act.json, anderlli0053/DEV-tools, 1
 bucket/act_DoveBoy.json, anderlli0053/DEV-tools, 1
 bucket/actionlint-aoks.json, anderlli0053/DEV-tools, 1
 bucket/actionlint.json, anderlli0053/DEV-tools, 1
-bucket/actions-usage.json, anderlli0053/DEV-tools, 0
+bucket/actions-usage.json, anderlli0053/DEV-tools, 1
 bucket/activate-linux.json, anderlli0053/DEV-tools, 1
 bucket/active-go.json, anderlli0053/DEV-tools, 0
 bucket/activegs.json, anderlli0053/DEV-tools, 0
@@ -4178,7 +4178,7 @@ bucket/alass-source.json, anderlli0053/DEV-tools, 1
 bucket/alass.json, anderlli0053/DEV-tools, 1
 bucket/album-art-downloader.json, anderlli0053/DEV-tools, 0
 bucket/alda.json, anderlli0053/DEV-tools, 1
-bucket/aleapp.json, anderlli0053/DEV-tools, 0
+bucket/aleapp.json, anderlli0053/DEV-tools, 1
 bucket/aleph-note.json, anderlli0053/DEV-tools, 1
 bucket/alephone-marathon-trilogy.json, anderlli0053/DEV-tools, 1
 bucket/alexandria.json, anderlli0053/DEV-tools, 1
@@ -4258,8 +4258,8 @@ bucket/amadeusy.json, anderlli0053/DEV-tools, 0
 bucket/amass.json, anderlli0053/DEV-tools, 1
 bucket/amass_hoilc.json, anderlli0053/DEV-tools, 1
 bucket/amazon-chime.json, anderlli0053/DEV-tools, 0
-bucket/amazon-ec2-instance-selector.json, anderlli0053/DEV-tools, 0
-bucket/amazon-ec2-metadata-mock.json, anderlli0053/DEV-tools, 0
+bucket/amazon-ec2-instance-selector.json, anderlli0053/DEV-tools, 1
+bucket/amazon-ec2-metadata-mock.json, anderlli0053/DEV-tools, 1
 bucket/amazon-games.json, anderlli0053/DEV-tools, 0
 bucket/amazon-kindle.json, ivaquero/scoopet, 0
 bucket/amazon-music.json, anderlli0053/DEV-tools, 0
@@ -4652,7 +4652,7 @@ bucket/aspic.json, anderlli0053/DEV-tools, 1
 bucket/asr.json, anderlli0053/DEV-tools, 0
 bucket/assaultcube.json, anderlli0053/DEV-tools, 1
 bucket/assetchecker.json, anderlli0053/DEV-tools, 0
-bucket/assetripper.json, anderlli0053/DEV-tools, 0
+bucket/assetripper.json, anderlli0053/DEV-tools, 1
 bucket/assetstudio.json, anderlli0053/DEV-tools, 1
 bucket/assetstudio_TheCjw.json, anderlli0053/DEV-tools, 1
 bucket/assh.json, anderlli0053/DEV-tools, 1
@@ -4839,8 +4839,8 @@ bucket/awl.json, anderlli0053/DEV-tools, 0
 bucket/awless.json, anderlli0053/DEV-tools, 1
 bucket/aws-amplify.json, anderlli0053/DEV-tools, 1
 bucket/aws-assume.json, anderlli0053/DEV-tools, 1
-bucket/aws-auth.json, anderlli0053/DEV-tools, 0
-bucket/aws-copilot-cli.json, anderlli0053/DEV-tools, 0
+bucket/aws-auth.json, anderlli0053/DEV-tools, 1
+bucket/aws-copilot-cli.json, anderlli0053/DEV-tools, 1
 bucket/aws-copilot.json, anderlli0053/DEV-tools, 1
 bucket/aws-ecs.json, anderlli0053/DEV-tools, 0
 bucket/aws-env-fix.json, anderlli0053/DEV-tools, 1
@@ -4923,7 +4923,7 @@ bucket/baidu-cdp.json, anderlli0053/DEV-tools, 1
 bucket/baidu-net-disk.json, anderlli0053/DEV-tools, 0
 bucket/baidu-netdisk.json, anderlli0053/DEV-tools, 0
 bucket/baidu-pan-files-transfer.json, anderlli0053/DEV-tools, 1
-bucket/baidudisk.json, scoopcn/scoopcn, 0
+bucket/baidudisk.json, akirco/aki-apps, 0
 bucket/baidudisk_scoopcn.json, anderlli0053/DEV-tools, 0
 bucket/baidunetdisk-cvp.json, anderlli0053/DEV-tools, 1
 bucket/baidunetdisk-portable.json, anderlli0053/DEV-tools, 0
@@ -5024,7 +5024,7 @@ bucket/bazel0.21.0.json, anderlli0053/DEV-tools, 1
 bucket/bazel0.22.0.json, anderlli0053/DEV-tools, 1
 bucket/bazel0.23.0.json, anderlli0053/DEV-tools, 1
 bucket/bazel0.23.1.json, anderlli0053/DEV-tools, 1
-bucket/bazelisk.json, anderlli0053/DEV-tools, 0
+bucket/bazelisk.json, anderlli0053/DEV-tools, 1
 bucket/bb-down.json, anderlli0053/DEV-tools, 1
 bucket/bb-http-server.json, anderlli0053/DEV-tools, 1
 bucket/bb-web.json, anderlli0053/DEV-tools, 1
@@ -5047,9 +5047,9 @@ bucket/bc4.json, anderlli0053/DEV-tools, 0
 bucket/bcarchive.json, anderlli0053/DEV-tools, 0
 bucket/bcc.json, anderlli0053/DEV-tools, 0
 bucket/bcc@5.5.json, anderlli0053/DEV-tools, 0
-bucket/bcd.json, anderlli0053/DEV-tools, 0
+bucket/bcd.json, anderlli0053/DEV-tools, 1
 bucket/bcdown.json, anderlli0053/DEV-tools, 1
-bucket/bcdstore.json, anderlli0053/DEV-tools, 0
+bucket/bcdstore.json, anderlli0053/DEV-tools, 1
 bucket/bckp.json, anderlli0053/DEV-tools, 1
 bucket/bcompare-cn.json, anderlli0053/DEV-tools, 0
 bucket/bcompare.json, anderlli0053/DEV-tools, 0
@@ -5161,13 +5161,13 @@ bucket/bigrats.json, anderlli0053/DEV-tools, 0
 bucket/bili-cli-rs.json, anderlli0053/DEV-tools, 1
 bucket/bili-downloader_GUI.json, anderlli0053/DEV-tools, 1
 bucket/bili.copilot.json, anderlli0053/DEV-tools, 1
-bucket/biliTickerBuy.json, anderlli0053/DEV-tools, 0
+bucket/biliTickerBuy.json, anderlli0053/DEV-tools, 1
 bucket/bilibili-desktop.json, anderlli0053/DEV-tools, 0
 bucket/bilibili-downloader.json, anderlli0053/DEV-tools, 0
 bucket/bilibili-live-record-downloader.json, anderlli0053/DEV-tools, 1
-bucket/bilibili-livehime.json, anderlli0053/DEV-tools, 0
+bucket/bilibili-livehime.json, akirco/aki-apps, 0
 bucket/bilibili-livehime_chawyehsu.json, anderlli0053/DEV-tools, 0
-bucket/bilibili-manga-downloader.json, anderlli0053/DEV-tools, 0
+bucket/bilibili-manga-downloader.json, anderlli0053/DEV-tools, 1
 bucket/bilibili-portable.json, anderlli0053/DEV-tools, 0
 bucket/bilibili-toolkit.json, anderlli0053/DEV-tools, 1
 bucket/bilibili.json, anderlli0053/DEV-tools, 0
@@ -5521,7 +5521,7 @@ bucket/buildozer.json, anderlli0053/DEV-tools, 1
 bucket/buildpad.json, anderlli0053/DEV-tools, 0
 bucket/bulk-crap-uninstaller.json, anderlli0053/DEV-tools, 1
 bucket/bulk-crap-uninstaller_DoveBoy.json, anderlli0053/DEV-tools, 1
-bucket/bulk-extractor.json, anderlli0053/DEV-tools, 0
+bucket/bulk-extractor.json, anderlli0053/DEV-tools, 1
 bucket/bulk-rename-command.json, anderlli0053/DEV-tools, 0
 bucket/bulk-rename-utility.json, anderlli0053/DEV-tools, 0
 bucket/bulkfilechanger.json, anderlli0053/DEV-tools, 0
@@ -5925,7 +5925,7 @@ bucket/ccls.json, anderlli0053/DEV-tools, 1
 bucket/ccode.json, anderlli0053/DEV-tools, 0
 bucket/ccs64.json, anderlli0053/DEV-tools, 0
 bucket/ccsiobench.json, anderlli0053/DEV-tools, 0
-bucket/ccstopper.json, anderlli0053/DEV-tools, 0
+bucket/ccstopper.json, anderlli0053/DEV-tools, 1
 bucket/ccstudio.json, anderlli0053/DEV-tools, 1
 bucket/ccstudio31.json, anderlli0053/DEV-tools, 1
 bucket/ccstudio33-seed-xds510.json, anderlli0053/DEV-tools, 1
@@ -5994,7 +5994,7 @@ bucket/cff-explorer.json, anderlli0053/DEV-tools, 0
 bucket/cff-explorer_TheCjw.json, anderlli0053/DEV-tools, 0
 bucket/cff-explorer_jingyu9575.json, anderlli0053/DEV-tools, 0
 bucket/cfg-cam.json, anderlli0053/DEV-tools, 1
-bucket/cfiler.json, anderlli0053/DEV-tools, 0
+bucket/cfiler.json, anderlli0053/DEV-tools, 1
 bucket/cfr.json, anderlli0053/DEV-tools, 0
 bucket/cfr_TheCjw.json, anderlli0053/DEV-tools, 1
 bucket/cfsec.json, anderlli0053/DEV-tools, 1
@@ -6207,7 +6207,7 @@ bucket/cider-portable.json, anderlli0053/DEV-tools, 1
 bucket/cider.json, anderlli0053/DEV-tools, 1
 bucket/cider_ScoopInstaller.json, anderlli0053/DEV-tools, 1
 bucket/cider_beerpiss.json, anderlli0053/DEV-tools, 1
-bucket/cilium-cli.json, anderlli0053/DEV-tools, 0
+bucket/cilium-cli.json, anderlli0053/DEV-tools, 1
 bucket/cinc-auditor.json, anderlli0053/DEV-tools, 0
 bucket/cinebench.json, anderlli0053/DEV-tools, 0
 bucket/cinebench15.json, anderlli0053/DEV-tools, 0
@@ -6272,16 +6272,16 @@ bucket/clash-for-windows_ivaquero.json, anderlli0053/DEV-tools, 1
 bucket/clash-meta.json, anderlli0053/DEV-tools, 1
 bucket/clash-mini.json, anderlli0053/DEV-tools, 1
 bucket/clash-multiplatform-runtime.json, anderlli0053/DEV-tools, 1
-bucket/clash-nyanpasu-portable.json, anderlli0053/DEV-tools, 0
-bucket/clash-nyanpasu.json, anderlli0053/DEV-tools, 0
+bucket/clash-nyanpasu-portable.json, anderlli0053/DEV-tools, 1
+bucket/clash-nyanpasu.json, anderlli0053/DEV-tools, 1
 bucket/clash-premium.json, anderlli0053/DEV-tools, 1
-bucket/clash-rev-cgo.json, anderlli0053/DEV-tools, 0
-bucket/clash-rev-compatible-go120.json, anderlli0053/DEV-tools, 0
-bucket/clash-rev-compatible.json, anderlli0053/DEV-tools, 0
-bucket/clash-rev-go120.json, anderlli0053/DEV-tools, 0
-bucket/clash-rev.json, anderlli0053/DEV-tools, 0
+bucket/clash-rev-cgo.json, anderlli0053/DEV-tools, 1
+bucket/clash-rev-compatible-go120.json, anderlli0053/DEV-tools, 1
+bucket/clash-rev-compatible.json, anderlli0053/DEV-tools, 1
+bucket/clash-rev-go120.json, anderlli0053/DEV-tools, 1
+bucket/clash-rev.json, anderlli0053/DEV-tools, 1
 bucket/clash-speedtest.json, anderlli0053/DEV-tools, 1
-bucket/clash-verge-rev-portable.json, anderlli0053/DEV-tools, 0
+bucket/clash-verge-rev-portable.json, anderlli0053/DEV-tools, 1
 bucket/clash-verge-rev.json, anderlli0053/DEV-tools, 1
 bucket/clash-verge.json, anderlli0053/DEV-tools, 1
 bucket/clash-verge_DoveBoy.json, anderlli0053/DEV-tools, 1
@@ -6298,7 +6298,7 @@ bucket/clash.meta-cgo.json, anderlli0053/DEV-tools, 1
 bucket/clash.meta.json, anderlli0053/DEV-tools, 1
 bucket/clash.meta_DoveBoy.json, anderlli0053/DEV-tools, 1
 bucket/clash.net.json, anderlli0053/DEV-tools, 1
-bucket/clash2singbox.json, anderlli0053/DEV-tools, 0
+bucket/clash2singbox.json, anderlli0053/DEV-tools, 1
 bucket/clash_DoveBoy.json, anderlli0053/DEV-tools, 1
 bucket/clash_chawyehsu.json, anderlli0053/DEV-tools, 1
 bucket/clash_for_windows.json, anderlli0053/DEV-tools, 1
@@ -6425,7 +6425,7 @@ bucket/clojure.json, anderlli0053/DEV-tools, 1
 bucket/clojure_wangzq.json, anderlli0053/DEV-tools, 0
 bucket/clone-app.json, anderlli0053/DEV-tools, 1
 bucket/clone-spy.json, anderlli0053/DEV-tools, 0
-bucket/clone-voice.json, anderlli0053/DEV-tools, 0
+bucket/clone-voice.json, anderlli0053/DEV-tools, 1
 bucket/cloneapp-aoks.json, anderlli0053/DEV-tools, 1
 bucket/clonehero.json, anderlli0053/DEV-tools, 0
 bucket/clonespy-aoks.json, anderlli0053/DEV-tools, 0
@@ -6583,7 +6583,7 @@ bucket/commandbox.json, anderlli0053/DEV-tools, 0
 bucket/commandcam.json, anderlli0053/DEV-tools, 0
 bucket/commander.json, anderlli0053/DEV-tools, 0
 bucket/commeon.json, anderlli0053/DEV-tools, 0
-bucket/commitmono.json, anderlli0053/DEV-tools, 0
+bucket/commitmono.json, anderlli0053/DEV-tools, 1
 bucket/committed.json, anderlli0053/DEV-tools, 1
 bucket/commix.json, anderlli0053/DEV-tools, 1
 bucket/communary-pasm.json, anderlli0053/DEV-tools, 1
@@ -7241,7 +7241,7 @@ bucket/cxbx-reloaded_hermanjustnu.json, anderlli0053/DEV-tools, 1
 bucket/cxbx.json, anderlli0053/DEV-tools, 0
 bucket/cxcli (2).json, anderlli0053/DEV-tools, 1
 bucket/cxcli.json, anderlli0053/DEV-tools, 1
-bucket/cyanrip.json, anderlli0053/DEV-tools, 0
+bucket/cyanrip.json, anderlli0053/DEV-tools, 1
 bucket/cyberapi.json, anderlli0053/DEV-tools, 1
 bucket/cyberchef.json, anderlli0053/DEV-tools, 1
 bucket/cyberduck-6.8.0.28825.json, anderlli0053/DEV-tools, 0
@@ -7249,14 +7249,14 @@ bucket/cyberduck-np.json, anderlli0053/DEV-tools, 1
 bucket/cyberduck.json, akirco/aki-apps, 0
 bucket/cyberduck_akirco.json, anderlli0053/DEV-tools, 0
 bucket/cyberduck_chawyehsu.json, anderlli0053/DEV-tools, 0
-bucket/cybr-cli.json, anderlli0053/DEV-tools, 0
+bucket/cybr-cli.json, anderlli0053/DEV-tools, 1
 bucket/cyg.json, anderlli0053/DEV-tools, 1
 bucket/cygne.json, anderlli0053/DEV-tools, 0
 bucket/cygpath.json, anderlli0053/DEV-tools, 0
 bucket/cygwin-alter.json, anderlli0053/DEV-tools, 0
 bucket/cygwin-aoks.json, anderlli0053/DEV-tools, 0
 bucket/cygwin-cvp.json, anderlli0053/DEV-tools, 1
-bucket/cygwin-libs-hentai.json, anderlli0053/DEV-tools, 0
+bucket/cygwin-libs-hentai.json, anderlli0053/DEV-tools, 1
 bucket/cygwin.json, anderlli0053/DEV-tools, 0
 bucket/cyotek-copytools.json, anderlli0053/DEV-tools, 0
 bucket/cyotek-palette-editor.json, anderlli0053/DEV-tools, 0
@@ -7685,7 +7685,7 @@ bucket/diskgenius-cn.json, anderlli0053/DEV-tools, 0
 bucket/diskgenius-pe.json, anderlli0053/DEV-tools, 0
 bucket/diskgenius-zh-cn.json, anderlli0053/DEV-tools, 0
 bucket/diskgenius-zh.json, anderlli0053/DEV-tools, 0
-bucket/diskgenius.json, anderlli0053/DEV-tools, 0
+bucket/diskgenius.json, akirco/aki-apps, 0
 bucket/diskgeniusCN.json, anderlli0053/DEV-tools, 0
 bucket/diskgeniuslite-zh.json, anderlli0053/DEV-tools, 0
 bucket/diskinfo.json, anderlli0053/DEV-tools, 0
@@ -8146,7 +8146,7 @@ bucket/dsvz200.json, anderlli0053/DEV-tools, 0
 bucket/dsynchronize-zh-cn.json, anderlli0053/DEV-tools, 0
 bucket/dt.json, anderlli0053/DEV-tools, 1
 bucket/dtc.json, anderlli0053/DEV-tools, 1
-bucket/dtlspipe.json, anderlli0053/DEV-tools, 0
+bucket/dtlspipe.json, anderlli0053/DEV-tools, 1
 bucket/du.json, anderlli0053/DEV-tools, 1
 bucket/du_mogeko.json, anderlli0053/DEV-tools, 0
 bucket/dua.json, anderlli0053/DEV-tools, 1
@@ -8264,7 +8264,7 @@ bucket/easy2convert-png2tga.json, anderlli0053/DEV-tools, 0
 bucket/easy2convert-tga2png.json, anderlli0053/DEV-tools, 0
 bucket/easy_profiler.json, anderlli0053/DEV-tools, 1
 bucket/easyconnect.json, anderlli0053/DEV-tools, 0
-bucket/easymusic.json, anderlli0053/DEV-tools, 0
+bucket/easymusic.json, anderlli0053/DEV-tools, 1
 bucket/easypub.json, anderlli0053/DEV-tools, 0
 bucket/easyrpg-player.json, anderlli0053/DEV-tools, 0
 bucket/easyrpg-player_TheLastZombie.json, anderlli0053/DEV-tools, 0
@@ -8569,7 +8569,7 @@ bucket/enputi.json, anderlli0053/DEV-tools, 1
 bucket/enscript.json, anderlli0053/DEV-tools, 0
 bucket/enso.json, anderlli0053/DEV-tools, 1
 bucket/entch.json, anderlli0053/DEV-tools, 1
-bucket/ente-cli.json, anderlli0053/DEV-tools, 0
+bucket/ente-cli.json, anderlli0053/DEV-tools, 1
 bucket/enter.json, anderlli0053/DEV-tools, 0
 bucket/env-config.json, anderlli0053/DEV-tools, 1
 bucket/enve.json, anderlli0053/DEV-tools, 1
@@ -8604,7 +8604,7 @@ bucket/equalizer-apo-np.json, anderlli0053/DEV-tools, 0
 bucket/equalizer-apo-np_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/equalizer-apo.json, anderlli0053/DEV-tools, 0
 bucket/equalizerapo.json, anderlli0053/DEV-tools, 0
-bucket/equinix-metal-cli.json, anderlli0053/DEV-tools, 0
+bucket/equinix-metal-cli.json, anderlli0053/DEV-tools, 1
 bucket/eraser.json, anderlli0053/DEV-tools, 0
 bucket/eraser5.json, anderlli0053/DEV-tools, 0
 bucket/erb.json, anderlli0053/DEV-tools, 1
@@ -8626,7 +8626,7 @@ bucket/es_batkiz.json, anderlli0053/DEV-tools, 0
 bucket/esbuild.json, anderlli0053/DEV-tools, 0
 bucket/eschargo.json, anderlli0053/DEV-tools, 1
 bucket/escrcpy.json, ivaquero/scoopet, 1
-bucket/esearch-portable.json, anderlli0053/DEV-tools, 0
+bucket/esearch-portable.json, anderlli0053/DEV-tools, 1
 bucket/esedatabaseview.json, anderlli0053/DEV-tools, 0
 bucket/esedatabaseview_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/esedatabaseview_kodybrown.json, anderlli0053/DEV-tools, 0
@@ -9104,7 +9104,7 @@ bucket/files-np.json, anderlli0053/DEV-tools, 1
 bucket/files.json, anderlli0053/DEV-tools, 1
 bucket/fileseek.json, anderlli0053/DEV-tools, 0
 bucket/fileserve.json, anderlli0053/DEV-tools, 1
-bucket/filesremote.json, anderlli0053/DEV-tools, 0
+bucket/filesremote.json, anderlli0053/DEV-tools, 1
 bucket/filesum.json, anderlli0053/DEV-tools, 0
 bucket/filetypediag.json, anderlli0053/DEV-tools, 0
 bucket/filetypesman.json, anderlli0053/DEV-tools, 0
@@ -9222,7 +9222,7 @@ bucket/fitwin.json, anderlli0053/DEV-tools, 0
 bucket/fitz.json, anderlli0053/DEV-tools, 1
 bucket/fix-print-spooler.json, anderlli0053/DEV-tools, 0
 bucket/fix-win.json, anderlli0053/DEV-tools, 0
-bucket/fixcue.json, anderlli0053/DEV-tools, 0
+bucket/fixcue.json, anderlli0053/DEV-tools, 1
 bucket/fixes-wsl-mac-dynaddr.json, anderlli0053/DEV-tools, 1
 bucket/fixpsreadline.json, anderlli0053/DEV-tools, 0
 bucket/fixwin-10.json, anderlli0053/DEV-tools, 0
@@ -9237,7 +9237,7 @@ bucket/flacout.json, anderlli0053/DEV-tools, 0
 bucket/flameshot-aoks.json, anderlli0053/DEV-tools, 1
 bucket/flameshot.json, anderlli0053/DEV-tools, 1
 bucket/flare-floss.json, anderlli0053/DEV-tools, 1
-bucket/flarectl.json, anderlli0053/DEV-tools, 0
+bucket/flarectl.json, anderlli0053/DEV-tools, 1
 bucket/flaresolverr.json, anderlli0053/DEV-tools, 1
 bucket/flash-drive-tester-np.json, anderlli0053/DEV-tools, 0
 bucket/flash-drive-tester-np_ScoopInstaller.json, anderlli0053/DEV-tools, 0
@@ -9490,7 +9490,7 @@ bucket/foreman.json, anderlli0053/DEV-tools, 1
 bucket/forge-downloader.json, anderlli0053/DEV-tools, 1
 bucket/forge.json, anderlli0053/DEV-tools, 1
 bucket/forgecli.json, anderlli0053/DEV-tools, 1
-bucket/fork-cleaner.json, anderlli0053/DEV-tools, 0
+bucket/fork-cleaner.json, anderlli0053/DEV-tools, 1
 bucket/fork.json, anderlli0053/DEV-tools, 0
 bucket/forkgram.json, anderlli0053/DEV-tools, 1
 bucket/forkgram_ScoopInstaller.json, anderlli0053/DEV-tools, 1
@@ -9520,7 +9520,7 @@ bucket/foxmail_SayCV.json, anderlli0053/DEV-tools, 0
 bucket/foxmail_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/foxmail_naderi.json, anderlli0053/DEV-tools, 1
 bucket/fping.json, anderlli0053/DEV-tools, 1
-bucket/fpm.json, anderlli0053/DEV-tools, 0
+bucket/fpm.json, anderlli0053/DEV-tools, 1
 bucket/fpp.json, anderlli0053/DEV-tools, 1
 bucket/fpps4-dev.json, anderlli0053/DEV-tools, 0
 bucket/fpps4.json, anderlli0053/DEV-tools, 1
@@ -9568,7 +9568,7 @@ bucket/freeciv.json, anderlli0053/DEV-tools, 0
 bucket/freeclipboardviewer.json, anderlli0053/DEV-tools, 0
 bucket/freeclipviewer.json, anderlli0053/DEV-tools, 0
 bucket/freecommander.json, anderlli0053/DEV-tools, 0
-bucket/freecontrol.json, anderlli0053/DEV-tools, 0
+bucket/freecontrol.json, anderlli0053/DEV-tools, 1
 bucket/freedo.json, anderlli0053/DEV-tools, 0
 bucket/freedoom.json, anderlli0053/DEV-tools, 1
 bucket/freedownloadmanager.json, anderlli0053/DEV-tools, 0
@@ -9646,7 +9646,7 @@ bucket/fsql_batkiz.json, anderlli0053/DEV-tools, 1
 bucket/fsrcnnx.json, anderlli0053/DEV-tools, 1
 bucket/fsresizer.json, anderlli0053/DEV-tools, 0
 bucket/fsresizer_echoiron.json, anderlli0053/DEV-tools, 0
-bucket/fstail.json, anderlli0053/DEV-tools, 0
+bucket/fstail.json, anderlli0053/DEV-tools, 1
 bucket/fstar.json, anderlli0053/DEV-tools, 1
 bucket/fsum.json, anderlli0053/DEV-tools, 0
 bucket/fsum_naderi.json, anderlli0053/DEV-tools, 0
@@ -9894,8 +9894,8 @@ bucket/geekuninstaller_DoveBoy.json, anderlli0053/DEV-tools, 0
 bucket/geepee32.json, anderlli0053/DEV-tools, 0
 bucket/geforce-experience.json, anderlli0053/DEV-tools, 0
 bucket/geforce.json, anderlli0053/DEV-tools, 0
-bucket/geistmono.json, anderlli0053/DEV-tools, 0
-bucket/geistsans.json, anderlli0053/DEV-tools, 0
+bucket/geistmono.json, anderlli0053/DEV-tools, 1
+bucket/geistsans.json, anderlli0053/DEV-tools, 1
 bucket/gekiore-regedit.json, anderlli0053/DEV-tools, 0
 bucket/gekko.json, anderlli0053/DEV-tools, 0
 bucket/gemget.json, anderlli0053/DEV-tools, 1
@@ -10078,7 +10078,7 @@ bucket/git-stack.json, anderlli0053/DEV-tools, 1
 bucket/git-tfs.json, anderlli0053/DEV-tools, 1
 bucket/git-toolbelt-aoks.json, anderlli0053/DEV-tools, 1
 bucket/git-tower.json, anderlli0053/DEV-tools, 0
-bucket/git-town.json, anderlli0053/DEV-tools, 1
+bucket/git-town.json, akirco/aki-apps, 1
 bucket/git-town_akirco.json, anderlli0053/DEV-tools, 1
 bucket/git-tuna.json, anderlli0053/DEV-tools, 0
 bucket/git-up.json, anderlli0053/DEV-tools, 1
@@ -10189,7 +10189,7 @@ bucket/glogg.json, anderlli0053/DEV-tools, 1
 bucket/glooctl-beta.json, anderlli0053/DEV-tools, 1
 bucket/glooctl.json, anderlli0053/DEV-tools, 1
 bucket/glorious-core.json, anderlli0053/DEV-tools, 0
-bucket/glow.json, anderlli0053/DEV-tools, 1
+bucket/glow.json, akirco/aki-apps, 1
 bucket/glow@1.4.1.json, anderlli0053/DEV-tools, 1
 bucket/glow_akirco.json, anderlli0053/DEV-tools, 1
 bucket/glow_batkiz.json, anderlli0053/DEV-tools, 1
@@ -10290,7 +10290,7 @@ bucket/goDoH.json, anderlli0053/DEV-tools, 1
 bucket/go_SayCV.json, anderlli0053/DEV-tools, 0
 bucket/goawk.json, anderlli0053/DEV-tools, 1
 bucket/gobang.json, anderlli0053/DEV-tools, 1
-bucket/gobench.json, anderlli0053/DEV-tools, 0
+bucket/gobench.json, anderlli0053/DEV-tools, 1
 bucket/gobuster.json, anderlli0053/DEV-tools, 1
 bucket/goby.json, anderlli0053/DEV-tools, 0
 bucket/gocannon.json, anderlli0053/DEV-tools, 1
@@ -10595,8 +10595,8 @@ bucket/gradle6.json, anderlli0053/DEV-tools, 0
 bucket/gradle7.json, anderlli0053/DEV-tools, 0
 bucket/gradle_akirco.json, anderlli0053/DEV-tools, 0
 bucket/gradleup.json, anderlli0053/DEV-tools, 0
-bucket/grafana-agent.json, anderlli0053/DEV-tools, 0
-bucket/grafana-agentctl.json, anderlli0053/DEV-tools, 0
+bucket/grafana-agent.json, anderlli0053/DEV-tools, 1
+bucket/grafana-agentctl.json, anderlli0053/DEV-tools, 1
 bucket/grafana.json, anderlli0053/DEV-tools, 0
 bucket/grafx2.json, anderlli0053/DEV-tools, 0
 bucket/grails.json, anderlli0053/DEV-tools, 1
@@ -10632,7 +10632,7 @@ bucket/grepWinPortable.json, anderlli0053/DEV-tools, 0
 bucket/grepWin_dodorz.json, anderlli0053/DEV-tools, 1
 bucket/grep_DoveBoy.json, anderlli0053/DEV-tools, 0
 bucket/grep_rivy.json, anderlli0053/DEV-tools, 0
-bucket/greptime.json, anderlli0053/DEV-tools, 0
+bucket/greptime.json, anderlli0053/DEV-tools, 1
 bucket/grepwin.json, anderlli0053/DEV-tools, 1
 bucket/gretl.json, anderlli0053/DEV-tools, 0
 bucket/grex.json, akirco/aki-apps, 1
@@ -10747,7 +10747,7 @@ bucket/hactoolnet.json, anderlli0053/DEV-tools, 1
 bucket/hadolint.json, anderlli0053/DEV-tools, 1
 bucket/hadoop-winutils.json, anderlli0053/DEV-tools, 1
 bucket/hadoop.json, anderlli0053/DEV-tools, 0
-bucket/hagoromo.json, anderlli0053/DEV-tools, 0
+bucket/hagoromo.json, anderlli0053/DEV-tools, 1
 bucket/hain.json, anderlli0053/DEV-tools, 1
 bucket/hakchi2-ce.json, anderlli0053/DEV-tools, 1
 bucket/hakuneko.json, anderlli0053/DEV-tools, 1
@@ -10939,7 +10939,7 @@ bucket/hey_aliesbelik.json, anderlli0053/DEV-tools, 0
 bucket/heybox-acc.json, anderlli0053/DEV-tools, 0
 bucket/heybox-chat.json, anderlli0053/DEV-tools, 0
 bucket/heybox-workshop.json, anderlli0053/DEV-tools, 0
-bucket/heynote.json, anderlli0053/DEV-tools, 0
+bucket/heynote.json, anderlli0053/DEV-tools, 1
 bucket/hfsexplorer.json, ivaquero/scoopet, 1
 bucket/hgrep.json, anderlli0053/DEV-tools, 1
 bucket/hgrep_DoveBoy.json, anderlli0053/DEV-tools, 1
@@ -11101,7 +11101,7 @@ bucket/huayupinyin.json, anderlli0053/DEV-tools, 0
 bucket/hub-tool.json, anderlli0053/DEV-tools, 1
 bucket/hub.json, anderlli0053/DEV-tools, 1
 bucket/hub_akirco.json, anderlli0053/DEV-tools, 1
-bucket/hubble.json, anderlli0053/DEV-tools, 0
+bucket/hubble.json, anderlli0053/DEV-tools, 1
 bucket/hubot-sans.json, anderlli0053/DEV-tools, 1
 bucket/hubotsans.json, anderlli0053/DEV-tools, 1
 bucket/hue-sync.json, anderlli0053/DEV-tools, 0
@@ -11296,7 +11296,7 @@ bucket/ik-authorization-manager.json, anderlli0053/DEV-tools, 0
 bucket/ik-product-manager.json, anderlli0053/DEV-tools, 0
 bucket/ikago.json, anderlli0053/DEV-tools, 1
 bucket/il2cppdumper.json, anderlli0053/DEV-tools, 1
-bucket/ileapp.json, anderlli0053/DEV-tools, 0
+bucket/ileapp.json, anderlli0053/DEV-tools, 1
 bucket/ilmerge.json, anderlli0053/DEV-tools, 0
 bucket/ilmerge2.json, anderlli0053/DEV-tools, 0
 bucket/ilmerge_wangzq.json, anderlli0053/DEV-tools, 0
@@ -11472,7 +11472,7 @@ bucket/installedpackagesview_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/installexe.json, anderlli0053/DEV-tools, 0
 bucket/installforge.json, anderlli0053/DEV-tools, 0
 bucket/installmsi.json, anderlli0053/DEV-tools, 0
-bucket/instaloader.json, anderlli0053/DEV-tools, 1
+bucket/instaloader.json, akirco/aki-apps, 1
 bucket/instant-eyedropper.json, anderlli0053/DEV-tools, 0
 bucket/instant_eye_dropper.json, anderlli0053/DEV-tools, 0
 bucket/insydeimageextractor.json, anderlli0053/DEV-tools, 1
@@ -11618,7 +11618,7 @@ bucket/ipnetinfo_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/ipopt.json, anderlli0053/DEV-tools, 1
 bucket/ippathtableview.json, anderlli0053/DEV-tools, 0
 bucket/ippathtableview_ScoopInstaller.json, anderlli0053/DEV-tools, 0
-bucket/ips.json, anderlli0053/DEV-tools, 0
+bucket/ips.json, anderlli0053/DEV-tools, 1
 bucket/ipscan.json, anderlli0053/DEV-tools, 1
 bucket/ipscan_ACooper81.json, anderlli0053/DEV-tools, 1
 bucket/ipsw.json, anderlli0053/DEV-tools, 1
@@ -11690,7 +11690,7 @@ bucket/jackett.json, anderlli0053/DEV-tools, 1
 bucket/jadx-unstable.json, anderlli0053/DEV-tools, 0
 bucket/jadx.json, anderlli0053/DEV-tools, 1
 bucket/jadx_HUMORCE.json, anderlli0053/DEV-tools, 1
-bucket/jaeger.json, anderlli0053/DEV-tools, 0
+bucket/jaeger.json, anderlli0053/DEV-tools, 1
 bucket/jags.json, anderlli0053/DEV-tools, 0
 bucket/jagulator.json, anderlli0053/DEV-tools, 0
 bucket/jailer.json, anderlli0053/DEV-tools, 1
@@ -11980,7 +11980,7 @@ bucket/kafkactl.json, anderlli0053/DEV-tools, 1
 bucket/kafkatail.json, anderlli0053/DEV-tools, 1
 bucket/kafta.json, anderlli0053/DEV-tools, 1
 bucket/kaiheila.json, anderlli0053/DEV-tools, 0
-bucket/kail.json, anderlli0053/DEV-tools, 0
+bucket/kail.json, anderlli0053/DEV-tools, 1
 bucket/kairatune.json, anderlli0053/DEV-tools, 0
 bucket/kaisekisan.json, anderlli0053/DEV-tools, 1
 bucket/kakaotalk.json, anderlli0053/DEV-tools, 0
@@ -12021,7 +12021,7 @@ bucket/katana_arch3rPro.json, anderlli0053/DEV-tools, 1
 bucket/katawashoujo.json, anderlli0053/DEV-tools, 0
 bucket/kate-nightly.json, anderlli0053/DEV-tools, 0
 bucket/kate-with-fontmod.json, anderlli0053/DEV-tools, 1
-bucket/kate.json, akirco/aki-apps, 0
+bucket/kate.json, anderlli0053/DEV-tools, 0
 bucket/kate_akirco.json, anderlli0053/DEV-tools, 0
 bucket/katrain.json, anderlli0053/DEV-tools, 1
 bucket/katrain_Calinou.json, anderlli0053/DEV-tools, 1
@@ -12175,7 +12175,7 @@ bucket/keyviz_ScoopInstaller.json, anderlli0053/DEV-tools, 1
 bucket/keyviz_hoilc.json, anderlli0053/DEV-tools, 1
 bucket/kfep.json, anderlli0053/DEV-tools, 0
 bucket/kg-gui.json, anderlli0053/DEV-tools, 0
-bucket/kgctl.json, anderlli0053/DEV-tools, 0
+bucket/kgctl.json, anderlli0053/DEV-tools, 1
 bucket/khcoder.json, anderlli0053/DEV-tools, 1
 bucket/ki.json, anderlli0053/DEV-tools, 0
 bucket/kibana.json, anderlli0053/DEV-tools, 0
@@ -12252,7 +12252,7 @@ bucket/knowledge.json, anderlli0053/DEV-tools, 0
 bucket/ko.json, anderlli0053/DEV-tools, 1
 bucket/koalageddon.json, anderlli0053/DEV-tools, 1
 bucket/koalageddon2.json, anderlli0053/DEV-tools, 1
-bucket/kobi.json, anderlli0053/DEV-tools, 0
+bucket/kobi.json, anderlli0053/DEV-tools, 1
 bucket/koboldcpp-cuda.json, anderlli0053/DEV-tools, 1
 bucket/koboldcpp.json, anderlli0053/DEV-tools, 1
 bucket/kobweb.json, anderlli0053/DEV-tools, 1
@@ -12345,7 +12345,7 @@ bucket/kt-connect.json, anderlli0053/DEV-tools, 1
 bucket/ktlint.json, anderlli0053/DEV-tools, 1
 bucket/ktunnel.json, anderlli0053/DEV-tools, 1
 bucket/ktx-software.json, anderlli0053/DEV-tools, 1
-bucket/kube-burner.json, anderlli0053/DEV-tools, 0
+bucket/kube-burner.json, anderlli0053/DEV-tools, 1
 bucket/kube-info.json, anderlli0053/DEV-tools, 1
 bucket/kube-linter.json, anderlli0053/DEV-tools, 1
 bucket/kubeadm.json, anderlli0053/DEV-tools, 0
@@ -12357,7 +12357,7 @@ bucket/kubeconform.json, anderlli0053/DEV-tools, 1
 bucket/kubeconform_hoilc.json, anderlli0053/DEV-tools, 1
 bucket/kubectl-argo-rollouts.json, anderlli0053/DEV-tools, 1
 bucket/kubectl-buildkit.json, anderlli0053/DEV-tools, 1
-bucket/kubectl-cert-manager.json, anderlli0053/DEV-tools, 0
+bucket/kubectl-cert-manager.json, anderlli0053/DEV-tools, 1
 bucket/kubectl-crossplane.json, anderlli0053/DEV-tools, 0
 bucket/kubectl-debug.json, anderlli0053/DEV-tools, 1
 bucket/kubectl-nplist.json, anderlli0053/DEV-tools, 1
@@ -12380,7 +12380,7 @@ bucket/kubeseal.json, anderlli0053/DEV-tools, 1
 bucket/kubeseal_hoilc.json, anderlli0053/DEV-tools, 1
 bucket/kubeshark.json, anderlli0053/DEV-tools, 1
 bucket/kubeshark_hoilc.json, anderlli0053/DEV-tools, 1
-bucket/kubestr.json, anderlli0053/DEV-tools, 0
+bucket/kubestr.json, anderlli0053/DEV-tools, 1
 bucket/kubeval.json, anderlli0053/DEV-tools, 1
 bucket/kubevpn.json, anderlli0053/DEV-tools, 1
 bucket/kubo.json, anderlli0053/DEV-tools, 0
@@ -12670,7 +12670,7 @@ bucket/libjpeg.json, anderlli0053/DEV-tools, 1
 bucket/libjxl.json, anderlli0053/DEV-tools, 1
 bucket/libmcrypt.json, anderlli0053/DEV-tools, 0
 bucket/libpng.json, anderlli0053/DEV-tools, 0
-bucket/libportable-floorp-lightning.json, anderlli0053/DEV-tools, 0
+bucket/libportable-floorp-lightning.json, anderlli0053/DEV-tools, 1
 bucket/libportable-floorp.json, anderlli0053/DEV-tools, 1
 bucket/libportable-iceweasel-zh-cn.json, anderlli0053/DEV-tools, 0
 bucket/libportable-iceweasel.json, anderlli0053/DEV-tools, 0
@@ -12692,7 +12692,7 @@ bucket/libreoffice_DoveBoy.json, anderlli0053/DEV-tools, 0
 bucket/libreoffice_cc713.json, anderlli0053/DEV-tools, 0
 bucket/librespeed-cli.json, anderlli0053/DEV-tools, 1
 bucket/librespeed-cli_hoilc.json, anderlli0053/DEV-tools, 1
-bucket/librespeed.json, anderlli0053/DEV-tools, 0
+bucket/librespeed.json, anderlli0053/DEV-tools, 1
 bucket/librespot-java-player.json, anderlli0053/DEV-tools, 1
 bucket/libresprite.json, anderlli0053/DEV-tools, 1
 bucket/libretta.json, anderlli0053/DEV-tools, 0
@@ -12712,7 +12712,7 @@ bucket/libserialport.json, anderlli0053/DEV-tools, 1
 bucket/libsndfile.json, anderlli0053/DEV-tools, 0
 bucket/libsodium-msvc.json, anderlli0053/DEV-tools, 0
 bucket/libssh2.json, anderlli0053/DEV-tools, 0
-bucket/libusb.json, anderlli0053/DEV-tools, 0
+bucket/libusb.json, anderlli0053/DEV-tools, 1
 bucket/libvips.json, anderlli0053/DEV-tools, 1
 bucket/libvips_hoilc.json, anderlli0053/DEV-tools, 1
 bucket/libwebp.json, akirco/aki-apps, 0
@@ -12768,7 +12768,7 @@ bucket/linkd.json, anderlli0053/DEV-tools, 0
 bucket/linked.json, anderlli0053/DEV-tools, 1
 bucket/linkerd.json, anderlli0053/DEV-tools, 1
 bucket/links.json, anderlli0053/DEV-tools, 0
-bucket/linkscope.json, anderlli0053/DEV-tools, 0
+bucket/linkscope.json, anderlli0053/DEV-tools, 1
 bucket/linkstage3_daily.json, anderlli0053/DEV-tools, 1
 bucket/linkstage3_stable.json, anderlli0053/DEV-tools, 1
 bucket/linphone.json, anderlli0053/DEV-tools, 0
@@ -12784,7 +12784,7 @@ bucket/lintalist.json, anderlli0053/DEV-tools, 1
 bucket/linux-command.json, anderlli0053/DEV-tools, 1
 bucket/linux-reader-aoks.json, anderlli0053/DEV-tools, 0
 bucket/linux-reader.json, anderlli0053/DEV-tools, 0
-bucket/linuxdoc.json, anderlli0053/DEV-tools, 0
+bucket/linuxdoc.json, anderlli0053/DEV-tools, 1
 bucket/linuxreader.json, anderlli0053/DEV-tools, 0
 bucket/liquibase.json, anderlli0053/DEV-tools, 1
 bucket/liquidsoap.json, anderlli0053/DEV-tools, 1
@@ -12980,7 +12980,7 @@ bucket/lpvpn.json, anderlli0053/DEV-tools, 1
 bucket/lpython.json, anderlli0053/DEV-tools, 0
 bucket/lpython@0.19.0-63-ge39f04fd5.json, anderlli0053/DEV-tools, 0
 bucket/lrcget.json, ivaquero/scoopet, 1
-bucket/lredit.json, anderlli0053/DEV-tools, 0
+bucket/lredit.json, anderlli0053/DEV-tools, 1
 bucket/lrzsz.json, anderlli0053/DEV-tools, 1
 bucket/ls-interactive.json, anderlli0053/DEV-tools, 1
 bucket/ls-lint.json, anderlli0053/DEV-tools, 1
@@ -13312,7 +13312,7 @@ bucket/mc-monitor.json, anderlli0053/DEV-tools, 1
 bucket/mc-utils.json, anderlli0053/DEV-tools, 1
 bucket/mc-w10-version-launcher.json, anderlli0053/DEV-tools, 1
 bucket/mc.json, anderlli0053/DEV-tools, 0
-bucket/mcap.json, anderlli0053/DEV-tools, 0
+bucket/mcap.json, anderlli0053/DEV-tools, 1
 bucket/mcaselector.json, anderlli0053/DEV-tools, 1
 bucket/mcedit.json, anderlli0053/DEV-tools, 1
 bucket/mcedit2.json, anderlli0053/DEV-tools, 1
@@ -13554,10 +13554,10 @@ bucket/mieru.json, anderlli0053/DEV-tools, 1
 bucket/miflash.json, anderlli0053/DEV-tools, 0
 bucket/migrate.json, anderlli0053/DEV-tools, 1
 bucket/mihome-token.json, anderlli0053/DEV-tools, 1
-bucket/mihomo-cgo.json, anderlli0053/DEV-tools, 0
-bucket/mihomo-compatible-go120.json, anderlli0053/DEV-tools, 0
-bucket/mihomo-compatible.json, anderlli0053/DEV-tools, 0
-bucket/mihomo-go120.json, anderlli0053/DEV-tools, 0
+bucket/mihomo-cgo.json, anderlli0053/DEV-tools, 1
+bucket/mihomo-compatible-go120.json, anderlli0053/DEV-tools, 1
+bucket/mihomo-compatible.json, anderlli0053/DEV-tools, 1
+bucket/mihomo-go120.json, anderlli0053/DEV-tools, 1
 bucket/mihomo.json, anderlli0053/DEV-tools, 1
 bucket/mikatype.json, anderlli0053/DEV-tools, 0
 bucket/miktex.json, anderlli0053/DEV-tools, 0
@@ -13583,7 +13583,7 @@ bucket/min-portable.json, anderlli0053/DEV-tools, 1
 bucket/min.json, anderlli0053/DEV-tools, 0
 bucket/min_DoveBoy.json, anderlli0053/DEV-tools, 1
 bucket/minbrowser.json, anderlli0053/DEV-tools, 1
-bucket/minder.json, anderlli0053/DEV-tools, 0
+bucket/minder.json, anderlli0053/DEV-tools, 1
 bucket/mindforger.json, anderlli0053/DEV-tools, 0
 bucket/mindolph.json, anderlli0053/DEV-tools, 1
 bucket/mindustry-server.json, anderlli0053/DEV-tools, 1
@@ -13629,7 +13629,7 @@ bucket/miniconda3-latest.json, anderlli0053/DEV-tools, 0
 bucket/miniconda3-py38.json, anderlli0053/DEV-tools, 0
 bucket/miniconda3-py39.json, anderlli0053/DEV-tools, 0
 bucket/miniconda3-reg.json, anderlli0053/DEV-tools, 0
-bucket/miniconda3.json, anderlli0053/DEV-tools, 0
+bucket/miniconda3.json, akirco/aki-apps, 0
 bucket/miniconda3_batkiz.json, anderlli0053/DEV-tools, 0
 bucket/miniconda3_chawyehsu.json, anderlli0053/DEV-tools, 0
 bucket/minidumper.json, anderlli0053/DEV-tools, 1
@@ -13660,7 +13660,7 @@ bucket/minitool-partition-wizard-free.json, anderlli0053/DEV-tools, 0
 bucket/minitool-partition-wizard-np.json, anderlli0053/DEV-tools, 0
 bucket/minivmac.json, anderlli0053/DEV-tools, 0
 bucket/miniweb.json, anderlli0053/DEV-tools, 1
-bucket/minizip-ng.json, anderlli0053/DEV-tools, 0
+bucket/minizip-ng.json, anderlli0053/DEV-tools, 1
 bucket/minus4.json, anderlli0053/DEV-tools, 0
 bucket/minutor.json, anderlli0053/DEV-tools, 1
 bucket/miranda-ng.json, anderlli0053/DEV-tools, 0
@@ -14290,7 +14290,7 @@ bucket/nbtexplorer_Calinou.json, anderlli0053/DEV-tools, 1
 bucket/nc.json, anderlli0053/DEV-tools, 1
 bucket/ncdz.json, anderlli0053/DEV-tools, 0
 bucket/ncftpclient.json, anderlli0053/DEV-tools, 0
-bucket/ncmdump.json, anderlli0053/DEV-tools, 0
+bucket/ncmdump.json, anderlli0053/DEV-tools, 1
 bucket/ncmpc.json, anderlli0053/DEV-tools, 0
 bucket/nconvert_starise.json, anderlli0053/DEV-tools, 0
 bucket/ncp.json, anderlli0053/DEV-tools, 1
@@ -15044,7 +15044,7 @@ bucket/od-explorer.json, anderlli0053/DEV-tools, 1
 bucket/oda-file-converter.json, anderlli0053/DEV-tools, 0
 bucket/odamex.json, anderlli0053/DEV-tools, 0
 bucket/odbc-tc.json, anderlli0053/DEV-tools, 0
-bucket/odbc2parquet.json, anderlli0053/DEV-tools, 0
+bucket/odbc2parquet.json, anderlli0053/DEV-tools, 1
 bucket/odfe-cli.json, anderlli0053/DEV-tools, 0
 bucket/odiff.json, anderlli0053/DEV-tools, 1
 bucket/odin-dev.json, anderlli0053/DEV-tools, 1
@@ -15324,13 +15324,13 @@ bucket/openmw-nightly.json, anderlli0053/DEV-tools, 0
 bucket/openmw.json, anderlli0053/DEV-tools, 1
 bucket/opennbs.json, anderlli0053/DEV-tools, 1
 bucket/opennetmeter.json, anderlli0053/DEV-tools, 1
-bucket/openobserve.json, anderlli0053/DEV-tools, 0
+bucket/openobserve.json, anderlli0053/DEV-tools, 1
 bucket/openocd.json, anderlli0053/DEV-tools, 1
 bucket/openoffice.json, anderlli0053/DEV-tools, 0
 bucket/openoffice_ACooper81.json, anderlli0053/DEV-tools, 0
 bucket/openoffice_DoveBoy.json, anderlli0053/DEV-tools, 0
 bucket/openorcadparser.json, anderlli0053/DEV-tools, 1
-bucket/openpomodoro.json, anderlli0053/DEV-tools, 0
+bucket/openpomodoro.json, anderlli0053/DEV-tools, 1
 bucket/openra.json, anderlli0053/DEV-tools, 1
 bucket/openra_hoilc.json, anderlli0053/DEV-tools, 1
 bucket/openrct2-portable.json, anderlli0053/DEV-tools, 1
@@ -15422,7 +15422,7 @@ bucket/openwithview.json, anderlli0053/DEV-tools, 0
 bucket/openwithview_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/openxcom.json, anderlli0053/DEV-tools, 0
 bucket/openxmlsdktool.json, anderlli0053/DEV-tools, 0
-bucket/openzfs.json, anderlli0053/DEV-tools, 0
+bucket/openzfs.json, anderlli0053/DEV-tools, 1
 bucket/opera-browser.json, anderlli0053/DEV-tools, 0
 bucket/opera-developer.json, anderlli0053/DEV-tools, 0
 bucket/opera-gx.json, anderlli0053/DEV-tools, 0
@@ -15531,7 +15531,7 @@ bucket/ossutil.json, anderlli0053/DEV-tools, 0
 bucket/ossutil_HCLonely.json, anderlli0053/DEV-tools, 0
 bucket/ossutil_echoiron.json, anderlli0053/DEV-tools, 0
 bucket/ossutil_hoilc.json, anderlli0053/DEV-tools, 0
-bucket/osu-lazer.json, anderlli0053/DEV-tools, 0
+bucket/osu-lazer.json, anderlli0053/DEV-tools, 1
 bucket/osu-trainer.json, anderlli0053/DEV-tools, 1
 bucket/osuhelper.json, anderlli0053/DEV-tools, 1
 bucket/osulazer.json, anderlli0053/DEV-tools, 1
@@ -16592,7 +16592,7 @@ bucket/phpunit9.json, anderlli0053/DEV-tools, 1
 bucket/phrase-cli.json, anderlli0053/DEV-tools, 1
 bucket/phraseexpress.json, anderlli0053/DEV-tools, 0
 bucket/phraseexpress_ACooper81.json, anderlli0053/DEV-tools, 0
-bucket/phraze.json, anderlli0053/DEV-tools, 0
+bucket/phraze.json, anderlli0053/DEV-tools, 1
 bucket/phyrox-developer-portapps.json, anderlli0053/DEV-tools, 1
 bucket/phyrox-esr-portapps.json, anderlli0053/DEV-tools, 1
 bucket/phyrox-portapps.json, anderlli0053/DEV-tools, 1
@@ -16630,7 +16630,7 @@ bucket/pict.json, anderlli0053/DEV-tools, 1
 bucket/pictor-cn.json, anderlli0053/DEV-tools, 0
 bucket/pictor.json, anderlli0053/DEV-tools, 0
 bucket/picture-cleaner.json, anderlli0053/DEV-tools, 1
-bucket/picturecleaner.json, anderlli0053/DEV-tools, 0
+bucket/picturecleaner.json, anderlli0053/DEV-tools, 1
 bucket/pidgin-discord.json, anderlli0053/DEV-tools, 0
 bucket/pidgin-discordassets.json, anderlli0053/DEV-tools, 0
 bucket/pidgin-facebook.json, anderlli0053/DEV-tools, 0
@@ -16676,7 +16676,7 @@ bucket/pip-Win.json, anderlli0053/DEV-tools, 0
 bucket/pip-py.json, anderlli0053/DEV-tools, 1
 bucket/pip-tool.json, anderlli0053/DEV-tools, 1
 bucket/pip.json, anderlli0053/DEV-tools, 0
-bucket/pipe-rename.json, anderlli0053/DEV-tools, 0
+bucket/pipe-rename.json, anderlli0053/DEV-tools, 1
 bucket/pipe2excel.json, anderlli0053/DEV-tools, 1
 bucket/pipelist.json, anderlli0053/DEV-tools, 1
 bucket/pipelist_mogeko.json, anderlli0053/DEV-tools, 0
@@ -17071,7 +17071,7 @@ bucket/pointofix_hoilc.json, anderlli0053/DEV-tools, 0
 bucket/pokemini.json, anderlli0053/DEV-tools, 0
 bucket/polaris.json, anderlli0053/DEV-tools, 1
 bucket/policy-analyzer.json, anderlli0053/DEV-tools, 0
-bucket/policy.json, anderlli0053/DEV-tools, 0
+bucket/policy.json, anderlli0053/DEV-tools, 1
 bucket/pollymc.json, anderlli0053/DEV-tools, 1
 bucket/polsedit.json, anderlli0053/DEV-tools, 0
 bucket/poly-lens.json, anderlli0053/DEV-tools, 0
@@ -17715,7 +17715,7 @@ bucket/python_wzv5.json, anderlli0053/DEV-tools, 0
 bucket/pythonwin7.json, anderlli0053/DEV-tools, 0
 bucket/pytranscriber.json, anderlli0053/DEV-tools, 1
 bucket/pytube-py.json, anderlli0053/DEV-tools, 1
-bucket/pywxdump.json, anderlli0053/DEV-tools, 0
+bucket/pywxdump.json, anderlli0053/DEV-tools, 1
 bucket/pyxeledit.json, anderlli0053/DEV-tools, 0
 bucket/pyxis.json, anderlli0053/DEV-tools, 1
 bucket/pyxis_ViCrack.json, anderlli0053/DEV-tools, 1
@@ -17835,7 +17835,7 @@ bucket/qqplayer_amorphobia.json, anderlli0053/DEV-tools, 0
 bucket/qr-filetransfer.json, anderlli0053/DEV-tools, 1
 bucket/qr.json, anderlli0053/DEV-tools, 1
 bucket/qr_DoveBoy.json, anderlli0053/DEV-tools, 1
-bucket/qrcp.json, anderlli0053/DEV-tools, 1
+bucket/qrcp.json, akirco/aki-apps, 1
 bucket/qrcp_DoveBoy.json, anderlli0053/DEV-tools, 1
 bucket/qrcp_akirco.json, anderlli0053/DEV-tools, 1
 bucket/qrencode.json, anderlli0053/DEV-tools, 0
@@ -17884,7 +17884,7 @@ bucket/quake_rs_ViCrack.json, anderlli0053/DEV-tools, 1
 bucket/quake_rs_arch3rPro.json, anderlli0053/DEV-tools, 1
 bucket/quakespasm.json, anderlli0053/DEV-tools, 0
 bucket/qualitymuncher.json, anderlli0053/DEV-tools, 1
-bucket/quardcrt.json, anderlli0053/DEV-tools, 0
+bucket/quardcrt.json, anderlli0053/DEV-tools, 1
 bucket/quark-cloud-drive.json, anderlli0053/DEV-tools, 0
 bucket/quark.json, anderlli0053/DEV-tools, 0
 bucket/quarkpan.json, akirco/aki-apps, 0
@@ -17959,7 +17959,7 @@ bucket/qview_cc713.json, anderlli0053/DEV-tools, 1
 bucket/qvm.json, anderlli0053/DEV-tools, 1
 bucket/qvpersonal.json, anderlli0053/DEV-tools, 1
 bucket/qwerty-fr-np.json, anderlli0053/DEV-tools, 0
-bucket/qwiktape.json, anderlli0053/DEV-tools, 0
+bucket/qwiktape.json, anderlli0053/DEV-tools, 1
 bucket/qwinff.json, anderlli0053/DEV-tools, 0
 bucket/r-4.1.0.json, anderlli0053/DEV-tools, 0
 bucket/r-4.1.1.json, anderlli0053/DEV-tools, 0
@@ -18518,7 +18518,7 @@ bucket/rocknesx.json, anderlli0053/DEV-tools, 0
 bucket/rocky-linux-wsl.json, anderlli0053/DEV-tools, 1
 bucket/rogcat.json, anderlli0053/DEV-tools, 1
 bucket/rogue-tiles.json, anderlli0053/DEV-tools, 0
-bucket/rogue_mysql_server.json, anderlli0053/DEV-tools, 0
+bucket/rogue_mysql_server.json, anderlli0053/DEV-tools, 1
 bucket/roguekiller.json, anderlli0053/DEV-tools, 0
 bucket/rohitab-api-monitor.json, anderlli0053/DEV-tools, 0
 bucket/rojo.json, anderlli0053/DEV-tools, 1
@@ -18552,7 +18552,7 @@ bucket/rpcs3_HUMORCE.json, anderlli0053/DEV-tools, 1
 bucket/rpcs3_borger.json, anderlli0053/DEV-tools, 1
 bucket/rpcs3_hermanjustnu.json, anderlli0053/DEV-tools, 1
 bucket/rpg-cli.json, anderlli0053/DEV-tools, 1
-bucket/rpk.json, anderlli0053/DEV-tools, 0
+bucket/rpk.json, anderlli0053/DEV-tools, 1
 bucket/rport-aoks.json, anderlli0053/DEV-tools, 1
 bucket/rport.json, anderlli0053/DEV-tools, 1
 bucket/rportcli-aoks.json, anderlli0053/DEV-tools, 1
@@ -18652,14 +18652,14 @@ bucket/ruff.json, anderlli0053/DEV-tools, 1
 bucket/ruffle-nightly-aoks.json, anderlli0053/DEV-tools, 1
 bucket/ruffle-nightly.json, anderlli0053/DEV-tools, 1
 bucket/ruffle-nightly_HUMORCE.json, anderlli0053/DEV-tools, 1
-bucket/ruffle.json, anderlli0053/DEV-tools, 0
+bucket/ruffle.json, anderlli0053/DEV-tools, 1
 bucket/rufus-sdu.json, anderlli0053/DEV-tools, 0
 bucket/rufus.json, akirco/aki-apps, 1
 bucket/rufus_ScoopInstaller.json, anderlli0053/DEV-tools, 1
 bucket/rufus_akirco.json, anderlli0053/DEV-tools, 1
 bucket/run-command.json, anderlli0053/DEV-tools, 0
 bucket/run-hidden.json, anderlli0053/DEV-tools, 1
-bucket/run-job.json, anderlli0053/DEV-tools, 0
+bucket/run-job.json, anderlli0053/DEV-tools, 1
 bucket/runany.json, anderlli0053/DEV-tools, 1
 bucket/runasdate.json, anderlli0053/DEV-tools, 0
 bucket/runasdate_SayCV.json, anderlli0053/DEV-tools, 0
@@ -18746,7 +18746,7 @@ bucket/s3-browser.json, scoopcn/scoopcn, 0
 bucket/s3-stream.json, anderlli0053/DEV-tools, 1
 bucket/s3browser.json, anderlli0053/DEV-tools, 0
 bucket/s3deploy.json, anderlli0053/DEV-tools, 1
-bucket/s3scanner.json, anderlli0053/DEV-tools, 0
+bucket/s3scanner.json, anderlli0053/DEV-tools, 1
 bucket/s5.json, anderlli0053/DEV-tools, 1
 bucket/s5cmd-aoks.json, anderlli0053/DEV-tools, 1
 bucket/s5cmd.json, anderlli0053/DEV-tools, 1
@@ -19062,7 +19062,7 @@ bucket/scriptcs@0.17.1.json, anderlli0053/DEV-tools, 0
 bucket/scriptcs_rivy.json, anderlli0053/DEV-tools, 0
 bucket/scrite.json, anderlli0053/DEV-tools, 0
 bucket/scrutinise.json, anderlli0053/DEV-tools, 1
-bucket/scryer-prolog.json, anderlli0053/DEV-tools, 0
+bucket/scryer-prolog.json, anderlli0053/DEV-tools, 1
 bucket/sculptgl.json, anderlli0053/DEV-tools, 0
 bucket/scummvm-nightly.json, anderlli0053/DEV-tools, 0
 bucket/scummvm-nightly_borger.json, anderlli0053/DEV-tools, 0
@@ -19187,7 +19187,7 @@ bucket/serviwin_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/serviwin_kodybrown.json, anderlli0053/DEV-tools, 0
 bucket/session.json, anderlli0053/DEV-tools, 1
 bucket/set-property.json, anderlli0053/DEV-tools, 1
-bucket/set-timer-resolution.json, anderlli0053/DEV-tools, 0
+bucket/set-timer-resolution.json, anderlli0053/DEV-tools, 1
 bucket/setacl-aoks.json, anderlli0053/DEV-tools, 0
 bucket/setacl-studio.json, anderlli0053/DEV-tools, 0
 bucket/setacl_studio-aoks.json, anderlli0053/DEV-tools, 0
@@ -19344,8 +19344,8 @@ bucket/shotcut_ScoopInstaller.json, anderlli0053/DEV-tools, 1
 bucket/shoutrrr.json, anderlli0053/DEV-tools, 1
 bucket/shovel.json, anderlli0053/DEV-tools, 1
 bucket/show-disk-partition-style.json, anderlli0053/DEV-tools, 0
-bucket/showkeyboard-node.json, anderlli0053/DEV-tools, 0
-bucket/showkeyboard.json, anderlli0053/DEV-tools, 0
+bucket/showkeyboard-node.json, anderlli0053/DEV-tools, 1
+bucket/showkeyboard.json, anderlli0053/DEV-tools, 1
 bucket/showver.json, anderlli0053/DEV-tools, 1
 bucket/shterm-alt.json, anderlli0053/DEV-tools, 1
 bucket/shudaxia.json, anderlli0053/DEV-tools, 0
@@ -19403,6 +19403,7 @@ bucket/simple-dnscrypt.json, anderlli0053/DEV-tools, 1
 bucket/simple-dnscrypt_fixed.json, anderlli0053/DEV-tools, 1
 bucket/simple-dnscrypt_rasa.json, anderlli0053/DEV-tools, 1
 bucket/simple-http-server.json, anderlli0053/DEV-tools, 1
+bucket/simple-live.json, akirco/aki-apps, 1
 bucket/simple-note.json, anderlli0053/DEV-tools, 1
 bucket/simple-obfs.json, anderlli0053/DEV-tools, 1
 bucket/simple-sticky-notes.json, anderlli0053/DEV-tools, 0
@@ -19436,7 +19437,7 @@ bucket/simpread-sync.json, anderlli0053/DEV-tools, 1
 bucket/simpread-synchelper.json, anderlli0053/DEV-tools, 0
 bucket/simutrans.json, anderlli0053/DEV-tools, 0
 bucket/sing-box-beta.json, anderlli0053/DEV-tools, 1
-bucket/sing-box-pre.json, anderlli0053/DEV-tools, 0
+bucket/sing-box-pre.json, anderlli0053/DEV-tools, 1
 bucket/sing-box.json, anderlli0053/DEV-tools, 1
 bucket/sing-box_DoveBoy.json, anderlli0053/DEV-tools, 1
 bucket/sing-box_hoilc.json, anderlli0053/DEV-tools, 1
@@ -19464,7 +19465,7 @@ bucket/skate-ipsum.json, anderlli0053/DEV-tools, 1
 bucket/sklauncher.json, anderlli0053/DEV-tools, 1
 bucket/skm.json, anderlli0053/DEV-tools, 1
 bucket/skuld.json, anderlli0053/DEV-tools, 1
-bucket/skupper-cli.json, anderlli0053/DEV-tools, 0
+bucket/skupper-cli.json, anderlli0053/DEV-tools, 1
 bucket/skyemu.json, anderlli0053/DEV-tools, 1
 bucket/skylark.json, anderlli0053/DEV-tools, 1
 bucket/skylark_echoiron.json, anderlli0053/DEV-tools, 1
@@ -19490,7 +19491,7 @@ bucket/slam.json, anderlli0053/DEV-tools, 1
 bucket/slang.json, anderlli0053/DEV-tools, 1
 bucket/slashbase.json, anderlli0053/DEV-tools, 1
 bucket/sleek.json, anderlli0053/DEV-tools, 1
-bucket/sleep-on-lan.json, anderlli0053/DEV-tools, 0
+bucket/sleep-on-lan.json, anderlli0053/DEV-tools, 1
 bucket/sleep.json, anderlli0053/DEV-tools, 0
 bucket/slic3r.json, anderlli0053/DEV-tools, 1
 bucket/slidershim.json, anderlli0053/DEV-tools, 1
@@ -19717,11 +19718,11 @@ bucket/space-mono.json, anderlli0053/DEV-tools, 1
 bucket/space-radar.json, anderlli0053/DEV-tools, 1
 bucket/space-sniffer.json, anderlli0053/DEV-tools, 1
 bucket/space.json, anderlli0053/DEV-tools, 1
-bucket/spacectl.json, anderlli0053/DEV-tools, 0
+bucket/spacectl.json, anderlli0053/DEV-tools, 1
 bucket/spacedesk-driver-np.json, anderlli0053/DEV-tools, 0
 bucket/spacedeskclient.json, anderlli0053/DEV-tools, 0
 bucket/spacedeskserver.json, anderlli0053/DEV-tools, 0
-bucket/spacedrive.json, anderlli0053/DEV-tools, 0
+bucket/spacedrive.json, anderlli0053/DEV-tools, 1
 bucket/spacedscreenshot.json, anderlli0053/DEV-tools, 1
 bucket/spacegrotesk-variable.json, anderlli0053/DEV-tools, 0
 bucket/spacegrotesk.json, anderlli0053/DEV-tools, 1
@@ -19789,7 +19790,7 @@ bucket/spline.json, anderlli0053/DEV-tools, 0
 bucket/split700.json, anderlli0053/DEV-tools, 1
 bucket/sponge.json, anderlli0053/DEV-tools, 1
 bucket/sponskrub.json, anderlli0053/DEV-tools, 1
-bucket/spooky-view.json, anderlli0053/DEV-tools, 0
+bucket/spooky-view.json, anderlli0053/DEV-tools, 1
 bucket/spot.json, anderlli0053/DEV-tools, 1
 bucket/spotbugs-beta.json, anderlli0053/DEV-tools, 0
 bucket/spotbugs.json, anderlli0053/DEV-tools, 0
@@ -20002,7 +20003,7 @@ bucket/steam-rom-manager-portable.json, anderlli0053/DEV-tools, 1
 bucket/steam-rom-manager.json, anderlli0053/DEV-tools, 1
 bucket/steam-rom-manager_borger.json, anderlli0053/DEV-tools, 1
 bucket/steam-rom-manager_hermanjustnu.json, anderlli0053/DEV-tools, 1
-bucket/steam-theme-Zehn.json, anderlli0053/DEV-tools, 0
+bucket/steam-theme-Zehn.json, anderlli0053/DEV-tools, 1
 bucket/steam.json, anderlli0053/DEV-tools, 0
 bucket/steam_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/steamchina.json, anderlli0053/DEV-tools, 0
@@ -20158,7 +20159,7 @@ bucket/sultan.json, anderlli0053/DEV-tools, 1
 bucket/sumatrapdf-installer.json, anderlli0053/DEV-tools, 0
 bucket/sumatrapdf-prerelease.json, anderlli0053/DEV-tools, 0
 bucket/sumatrapdf.json, anderlli0053/DEV-tools, 0
-bucket/summon.json, anderlli0053/DEV-tools, 0
+bucket/summon.json, anderlli0053/DEV-tools, 1
 bucket/sumo.json, anderlli0053/DEV-tools, 0
 bucket/sunbeam.json, anderlli0053/DEV-tools, 1
 bucket/sunfish4.json, anderlli0053/DEV-tools, 1
@@ -20271,7 +20272,7 @@ bucket/swave.json, anderlli0053/DEV-tools, 0
 bucket/sweethome3d.json, anderlli0053/DEV-tools, 0
 bucket/swf2projector.json, anderlli0053/DEV-tools, 0
 bucket/swfopener.json, anderlli0053/DEV-tools, 0
-bucket/swgp-go.json, anderlli0053/DEV-tools, 0
+bucket/swgp-go.json, anderlli0053/DEV-tools, 1
 bucket/swift-snapshot.json, anderlli0053/DEV-tools, 0
 bucket/swift.json, anderlli0053/DEV-tools, 0
 bucket/swift_chawyehsu.json, anderlli0053/DEV-tools, 0
@@ -20286,7 +20287,7 @@ bucket/switch-theme-injector.json, anderlli0053/DEV-tools, 1
 bucket/switch-toolbox.json, anderlli0053/DEV-tools, 1
 bucket/switch.json, anderlli0053/DEV-tools, 1
 bucket/switcheroo.json, anderlli0053/DEV-tools, 1
-bucket/switchfin.json, anderlli0053/DEV-tools, 0
+bucket/switchfin.json, anderlli0053/DEV-tools, 1
 bucket/switchhosts.json, anderlli0053/DEV-tools, 1
 bucket/switchhosts_akirco.json, anderlli0053/DEV-tools, 1
 bucket/switchlayouteditor.json, anderlli0053/DEV-tools, 1
@@ -20431,7 +20432,7 @@ bucket/takeda.json, anderlli0053/DEV-tools, 0
 bucket/takeshi.json, anderlli0053/DEV-tools, 0
 bucket/takewarabe.json, anderlli0053/DEV-tools, 0
 bucket/tal-elek7ro.json, anderlli0053/DEV-tools, 0
-bucket/talisman.json, anderlli0053/DEV-tools, 0
+bucket/talisman.json, anderlli0053/DEV-tools, 1
 bucket/tally-marks.json, anderlli0053/DEV-tools, 1
 bucket/talosctl-aoks.json, anderlli0053/DEV-tools, 1
 bucket/talosctl.json, anderlli0053/DEV-tools, 1
@@ -20816,9 +20817,9 @@ bucket/thrift.json, anderlli0053/DEV-tools, 0
 bucket/thrive.json, anderlli0053/DEV-tools, 1
 bucket/throttlestop.json, anderlli0053/DEV-tools, 0
 bucket/ths-desktop.json, anderlli0053/DEV-tools, 0
-bucket/thumbcacheviewer.json, anderlli0053/DEV-tools, 0
+bucket/thumbcacheviewer.json, anderlli0053/DEV-tools, 1
 bucket/thumbfast.json, anderlli0053/DEV-tools, 1
-bucket/thumbsviewer.json, anderlli0053/DEV-tools, 0
+bucket/thumbsviewer.json, anderlli0053/DEV-tools, 1
 bucket/thunder-light.json, anderlli0053/DEV-tools, 1
 bucket/thunder11-zd423.json, anderlli0053/DEV-tools, 0
 bucket/thunderbird-beta-de.json, anderlli0053/DEV-tools, 0
@@ -20897,7 +20898,7 @@ bucket/timevertor.json, anderlli0053/DEV-tools, 1
 bucket/timezonesview.json, anderlli0053/DEV-tools, 0
 bucket/timezonesview_ScoopInstaller.json, anderlli0053/DEV-tools, 0
 bucket/timimi.json, anderlli0053/DEV-tools, 1
-bucket/timoni.json, anderlli0053/DEV-tools, 0
+bucket/timoni.json, anderlli0053/DEV-tools, 1
 bucket/ting-en.json, ivaquero/scoopet, 0
 bucket/ting-es.json, ivaquero/scoopet, 0
 bucket/ting-fr.json, ivaquero/scoopet, 0
@@ -20907,7 +20908,7 @@ bucket/tinkerwell.json, anderlli0053/DEV-tools, 0
 bucket/tinode-mysql.json, anderlli0053/DEV-tools, 1
 bucket/tinos.json, anderlli0053/DEV-tools, 0
 bucket/tiny-nvidia-update-checker.json, anderlli0053/DEV-tools, 1
-bucket/tiny-rdm.json, anderlli0053/DEV-tools, 0
+bucket/tiny-rdm.json, anderlli0053/DEV-tools, 1
 bucket/tiny11builder.json, anderlli0053/DEV-tools, 1
 bucket/tinyMediaManager_kkzzhizhou.json, anderlli0053/DEV-tools, 0
 bucket/tinyPortMapper.json, anderlli0053/DEV-tools, 1
@@ -20943,7 +20944,7 @@ bucket/tlauncher.json, anderlli0053/DEV-tools, 0
 bucket/tldr.json, anderlli0053/DEV-tools, 1
 bucket/tldr_DoveBoy.json, anderlli0053/DEV-tools, 1
 bucket/tldr_akirco.json, anderlli0053/DEV-tools, 1
-bucket/tlrc.json, anderlli0053/DEV-tools, 0
+bucket/tlrc.json, anderlli0053/DEV-tools, 1
 bucket/tlsx.json, anderlli0053/DEV-tools, 1
 bucket/tmac.json, anderlli0053/DEV-tools, 0
 bucket/tmaze.json, anderlli0053/DEV-tools, 1
@@ -20981,7 +20982,7 @@ bucket/tomcat9.json, anderlli0053/DEV-tools, 0
 bucket/tome4.json, anderlli0053/DEV-tools, 0
 bucket/tomighty.json, anderlli0053/DEV-tools, 0
 bucket/toms-hash-explorer-install.json, anderlli0053/DEV-tools, 0
-bucket/tone.json, anderlli0053/DEV-tools, 0
+bucket/tone.json, anderlli0053/DEV-tools, 1
 bucket/toolchain-riscv-nuclei.json, anderlli0053/DEV-tools, 0
 bucket/tooll.json, anderlli0053/DEV-tools, 1
 bucket/toolsfx.json, anderlli0053/DEV-tools, 1
@@ -20989,7 +20990,7 @@ bucket/tooniversal.json, anderlli0053/DEV-tools, 0
 bucket/toontownfellowship.json, anderlli0053/DEV-tools, 0
 bucket/toontownoffline.json, anderlli0053/DEV-tools, 0
 bucket/toontownrewritten.json, anderlli0053/DEV-tools, 0
-bucket/topaz.json, anderlli0053/DEV-tools, 0
+bucket/topaz.json, anderlli0053/DEV-tools, 1
 bucket/topdf.json, anderlli0053/DEV-tools, 1
 bucket/topgrade.json, anderlli0053/DEV-tools, 1
 bucket/topgradeCLI-Portable.json, anderlli0053/DEV-tools, 1
@@ -21045,7 +21046,7 @@ bucket/tracetcp.json, anderlli0053/DEV-tools, 1
 bucket/track.json, anderlli0053/DEV-tools, 0
 bucket/trackello.json, anderlli0053/DEV-tools, 1
 bucket/trackereditor.json, anderlli0053/DEV-tools, 1
-bucket/trackselect.json, anderlli0053/DEV-tools, 0
+bucket/trackselect.json, anderlli0053/DEV-tools, 1
 bucket/tracy.json, anderlli0053/DEV-tools, 1
 bucket/tracy_naderi.json, anderlli0053/DEV-tools, 1
 bucket/traders-little-helper.json, anderlli0053/DEV-tools, 0
@@ -21278,7 +21279,7 @@ bucket/typora-crack.json, anderlli0053/DEV-tools, 0
 bucket/typora-cracker.json, anderlli0053/DEV-tools, 1
 bucket/typora-dev.json, anderlli0053/DEV-tools, 0
 bucket/typora-np.json, anderlli0053/DEV-tools, 0
-bucket/typora-plugin.json, anderlli0053/DEV-tools, 0
+bucket/typora-plugin.json, anderlli0053/DEV-tools, 1
 bucket/typora-portable.json, anderlli0053/DEV-tools, 0
 bucket/typora-stable.json, anderlli0053/DEV-tools, 0
 bucket/typora.json, anderlli0053/DEV-tools, 0
@@ -21370,9 +21371,9 @@ bucket/ultravnc.json, anderlli0053/DEV-tools, 0
 bucket/umaviewer.json, anderlli0053/DEV-tools, 1
 bucket/umbrello.json, anderlli0053/DEV-tools, 0
 bucket/umi-ocr-all-lang.json, anderlli0053/DEV-tools, 1
-bucket/umi-ocr-dev.json, anderlli0053/DEV-tools, 0
+bucket/umi-ocr-dev.json, anderlli0053/DEV-tools, 1
 bucket/umi-ocr-paddle.json, anderlli0053/DEV-tools, 1
-bucket/umi-ocr-rapid.json, anderlli0053/DEV-tools, 0
+bucket/umi-ocr-rapid.json, anderlli0053/DEV-tools, 1
 bucket/umi-ocr.json, anderlli0053/DEV-tools, 1
 bucket/umi-ocr_DoveBoy.json, anderlli0053/DEV-tools, 1
 bucket/umka.json, anderlli0053/DEV-tools, 1
@@ -21727,7 +21728,7 @@ bucket/uwpdumper.json, anderlli0053/DEV-tools, 1
 bucket/uwphook.json, anderlli0053/DEV-tools, 1
 bucket/uwpstreamer.json, anderlli0053/DEV-tools, 1
 bucket/uwsc.json, anderlli0053/DEV-tools, 0
-bucket/uwscr.json, anderlli0053/DEV-tools, 0
+bucket/uwscr.json, anderlli0053/DEV-tools, 1
 bucket/uwuvci.json, anderlli0053/DEV-tools, 1
 bucket/uxn.json, anderlli0053/DEV-tools, 0
 bucket/uxn32.json, anderlli0053/DEV-tools, 1
@@ -22016,7 +22017,7 @@ bucket/vinter.json, anderlli0053/DEV-tools, 0
 bucket/viper.json, anderlli0053/DEV-tools, 1
 bucket/virgo.json, anderlli0053/DEV-tools, 1
 bucket/virt-viewer.json, anderlli0053/DEV-tools, 0
-bucket/virtctl.json, anderlli0053/DEV-tools, 0
+bucket/virtctl.json, anderlli0053/DEV-tools, 1
 bucket/virtio-win.json, anderlli0053/DEV-tools, 0
 bucket/virtpanajr.json, anderlli0053/DEV-tools, 0
 bucket/virtu.json, anderlli0053/DEV-tools, 0
@@ -22214,7 +22215,7 @@ bucket/vsbuildtools2017.json, anderlli0053/DEV-tools, 0
 bucket/vsbuildtools2022.json, anderlli0053/DEV-tools, 0
 bucket/vscan.json, anderlli0053/DEV-tools, 1
 bucket/vscan_ViCrack.json, anderlli0053/DEV-tools, 1
-bucket/vscli.json, anderlli0053/DEV-tools, 0
+bucket/vscli.json, anderlli0053/DEV-tools, 1
 bucket/vscode-context-en.json, anderlli0053/DEV-tools, 1
 bucket/vscode-context-fr.json, anderlli0053/DEV-tools, 1
 bucket/vscode-dev.json, anderlli0053/DEV-tools, 1
@@ -22371,8 +22372,8 @@ bucket/waterfox-portable_naderi.json, anderlli0053/DEV-tools, 0
 bucket/waterfox-portapps.json, anderlli0053/DEV-tools, 1
 bucket/waterfox.json, anderlli0053/DEV-tools, 0
 bucket/watt-toolkit.json, anderlli0053/DEV-tools, 1
-bucket/watttoolkit-beta.json, anderlli0053/DEV-tools, 0
-bucket/watttoolkit.json, anderlli0053/DEV-tools, 0
+bucket/watttoolkit-beta.json, anderlli0053/DEV-tools, 1
+bucket/watttoolkit.json, anderlli0053/DEV-tools, 1
 bucket/wau-manager.json, anderlli0053/DEV-tools, 0
 bucket/wave.json, anderlli0053/DEV-tools, 1
 bucket/wavebox-classic.json, anderlli0053/DEV-tools, 0
@@ -22426,7 +22427,7 @@ bucket/webdav-tc.json, anderlli0053/DEV-tools, 0
 bucket/webdav.json, anderlli0053/DEV-tools, 1
 bucket/webex.json, anderlli0053/DEV-tools, 0
 bucket/webhook.json, anderlli0053/DEV-tools, 1
-bucket/webmesh.json, anderlli0053/DEV-tools, 0
+bucket/webmesh.json, anderlli0053/DEV-tools, 1
 bucket/webpathbrute.json, anderlli0053/DEV-tools, 1
 bucket/webpicmd-alt.json, anderlli0053/DEV-tools, 0
 bucket/webpicmd.json, anderlli0053/DEV-tools, 0
@@ -22479,9 +22480,9 @@ bucket/wechat_wzv5.json, anderlli0053/DEV-tools, 0
 bucket/wechatdevtools-rc.json, anderlli0053/DEV-tools, 0
 bucket/wechatdevtools.json, akirco/aki-apps, 0
 bucket/wechatdevtools_akirco.json, anderlli0053/DEV-tools, 0
-bucket/wechatdownload.json, anderlli0053/DEV-tools, 0
+bucket/wechatdownload.json, anderlli0053/DEV-tools, 1
 bucket/wechatexporter.json, anderlli0053/DEV-tools, 1
-bucket/wechatmsg.json, anderlli0053/DEV-tools, 0
+bucket/wechatmsg.json, anderlli0053/DEV-tools, 1
 bucket/wechatvideodownloader.json, anderlli0053/DEV-tools, 1
 bucket/wechatwork.json, ivaquero/scoopet, 0
 bucket/wechatwork_chawyehsu.json, anderlli0053/DEV-tools, 0
@@ -22643,7 +22644,7 @@ bucket/win.json, anderlli0053/DEV-tools, 1
 bucket/win10-inital-setup-script.json, anderlli0053/DEV-tools, 1
 bucket/win10-initial-setup-script.json, anderlli0053/DEV-tools, 1
 bucket/win10-initial-setup-script_yuusakuri.json, anderlli0053/DEV-tools, 1
-bucket/win10-virtual-desktop-enhancer.json, anderlli0053/DEV-tools, 0
+bucket/win10-virtual-desktop-enhancer.json, anderlli0053/DEV-tools, 1
 bucket/win10_brightnessslider.json, anderlli0053/DEV-tools, 1
 bucket/win10active.json, anderlli0053/DEV-tools, 1
 bucket/win11-classic-context-menu.json, anderlli0053/DEV-tools, 0
@@ -22678,7 +22679,7 @@ bucket/winbox.json, anderlli0053/DEV-tools, 0
 bucket/winboycott.json, anderlli0053/DEV-tools, 0
 bucket/winbtrfs-np.json, anderlli0053/DEV-tools, 1
 bucket/winbtrfs-np_ScoopInstaller.json, anderlli0053/DEV-tools, 1
-bucket/winbtrfs.json, anderlli0053/DEV-tools, 0
+bucket/winbtrfs.json, anderlli0053/DEV-tools, 1
 bucket/wincd-emu.json, anderlli0053/DEV-tools, 1
 bucket/wincdemu.json, anderlli0053/DEV-tools, 1
 bucket/winchecksec.json, anderlli0053/DEV-tools, 1
@@ -22774,7 +22775,7 @@ bucket/windowsdesktop-runtime-x86.json, anderlli0053/DEV-tools, 0
 bucket/windowsdesktop-runtime.json, anderlli0053/DEV-tools, 0
 bucket/windowserrorlookuptool-ims.json, anderlli0053/DEV-tools, 0
 bucket/windowserrorlookuptool.json, anderlli0053/DEV-tools, 0
-bucket/windowsgsm.json, anderlli0053/DEV-tools, 0
+bucket/windowsgsm.json, anderlli0053/DEV-tools, 1
 bucket/windowsmanagement.json, anderlli0053/DEV-tools, 1
 bucket/windowspasswordrecoverypackage.json, anderlli0053/DEV-tools, 0
 bucket/windowsspyblocker.json, anderlli0053/DEV-tools, 1
@@ -23207,7 +23208,7 @@ bucket/wumgr.json, anderlli0053/DEV-tools, 1
 bucket/wumo.json, anderlli0053/DEV-tools, 0
 bucket/wumt.json, anderlli0053/DEV-tools, 0
 bucket/wurl.json, anderlli0053/DEV-tools, 1
-bucket/wutils.json, anderlli0053/DEV-tools, 0
+bucket/wutils.json, anderlli0053/DEV-tools, 1
 bucket/wuzz.json, anderlli0053/DEV-tools, 1
 bucket/wwwc.json, anderlli0053/DEV-tools, 0
 bucket/wx3270.json, anderlli0053/DEV-tools, 0
@@ -23215,7 +23216,7 @@ bucket/wxDownloadFastPortable.json, anderlli0053/DEV-tools, 0
 bucket/wxMEdit.json, anderlli0053/DEV-tools, 0
 bucket/wxMP3gainPortable.json, anderlli0053/DEV-tools, 0
 bucket/wx_qq_revokeMsgPatcher.json, akirco/aki-apps, 1
-bucket/wxdatviewerautoexportrust.json, anderlli0053/DEV-tools, 0
+bucket/wxdatviewerautoexportrust.json, anderlli0053/DEV-tools, 1
 bucket/wxdfast.json, anderlli0053/DEV-tools, 1
 bucket/wxformbuilder.json, anderlli0053/DEV-tools, 1
 bucket/wxhexeditor.json, anderlli0053/DEV-tools, 0
@@ -23315,7 +23316,7 @@ bucket/xgs32.json, anderlli0053/DEV-tools, 0
 bucket/xh.json, akirco/aki-apps, 1
 bucket/xh_akirco.json, anderlli0053/DEV-tools, 1
 bucket/xh_batkiz.json, anderlli0053/DEV-tools, 1
-bucket/xhs-downloader.json, anderlli0053/DEV-tools, 0
+bucket/xhs-downloader.json, anderlli0053/DEV-tools, 1
 bucket/xiangtian-workbench.json, anderlli0053/DEV-tools, 0
 bucket/xiaobaiyang.json, anderlli0053/DEV-tools, 0
 bucket/xiaochao.json, anderlli0053/DEV-tools, 1
@@ -23334,7 +23335,7 @@ bucket/xion-audio-player.json, anderlli0053/DEV-tools, 0
 bucket/xiuxiu.json, anderlli0053/DEV-tools, 0
 bucket/xivbackup.json, anderlli0053/DEV-tools, 1
 bucket/xivlauncher.json, anderlli0053/DEV-tools, 1
-bucket/xjavafxtool.json, anderlli0053/DEV-tools, 0
+bucket/xjavafxtool.json, anderlli0053/DEV-tools, 1
 bucket/xjoy.json, anderlli0053/DEV-tools, 1
 bucket/xkb-switch.json, anderlli0053/DEV-tools, 1
 bucket/xkcd-script.json, anderlli0053/DEV-tools, 0
@@ -23526,7 +23527,7 @@ bucket/yaffplayer.json, anderlli0053/DEV-tools, 0
 bucket/yafs.json, anderlli0053/DEV-tools, 0
 bucket/yage.json, anderlli0053/DEV-tools, 0
 bucket/yahei-fira-icon-hybrid.json, anderlli0053/DEV-tools, 1
-bucket/yakc.json, anderlli0053/DEV-tools, 0
+bucket/yakc.json, anderlli0053/DEV-tools, 1
 bucket/yakit.json, anderlli0053/DEV-tools, 0
 bucket/yakit_ViCrack.json, anderlli0053/DEV-tools, 0
 bucket/yakit_arch3rPro.json, anderlli0053/DEV-tools, 0

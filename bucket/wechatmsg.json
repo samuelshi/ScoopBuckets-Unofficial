@@ -6,7 +6,7 @@
     "identifier": "GPL-3.0 license",
     "url": "https://github.com/LC044/WeChatMsg#GPL-3.0-1-ov-file"
   },
-  "url": "https://mirror.ghproxy.com/https://github.com/LC044/WeChatMsg/releases/download/v1.0.1/MemoTrace-1.0.1.exe",
+  "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/LC044/WeChatMsg/releases/download/v1.0.1/MemoTrace-1.0.1.exe",
   "hash": "fdd85e8b66ea8f160ae67a7a19f0a29e263bf0ccfc4ce6e9dba9613d63235100",
   "pre_install": "Get-ChildItem \"$dir\\MemoTrace*.exe\" | Rename-Item -NewName 'MemoTrace.exe'",
   "shortcuts": [
@@ -20,6 +20,6 @@
     "regex": "/releases/tag/v([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/LC044/WeChatMsg/releases/download/v$version/MemoTrace-$version.exe"
+    "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/LC044/WeChatMsg/releases/download/v$version/MemoTrace-$version.exe"
   }
 }

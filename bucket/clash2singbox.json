@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/xmdhs/clash2singbox/releases/download/v0.0.2/clash2singbox-windows-amd64.exe#/clash2singbox.exe",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/xmdhs/clash2singbox/releases/download/v0.0.2/clash2singbox-windows-amd64.exe#/clash2singbox.exe",
       "hash": "6213cd6e0dd8c962288d4eb0065d4b5e35a9cacb4270bcfd433766a8e92bce24"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/xmdhs/clash2singbox/releases/download/v0.0.2/clash2singbox-windows-386.exe#/clash2singbox.exe",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/xmdhs/clash2singbox/releases/download/v0.0.2/clash2singbox-windows-386.exe#/clash2singbox.exe",
       "hash": "a810b7e8704fd726654c62833e7c6e473ffbfb62303d75fb10368d9ddadcd03f"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/xmdhs/clash2singbox/releases/download/v$version/clash2singbox-windows-amd64.exe#/clash2singbox.exe"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/xmdhs/clash2singbox/releases/download/v$version/clash2singbox-windows-amd64.exe#/clash2singbox.exe"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/xmdhs/clash2singbox/releases/download/v$version/clash2singbox-windows-386.exe#/clash2singbox.exe"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/xmdhs/clash2singbox/releases/download/v$version/clash2singbox-windows-386.exe#/clash2singbox.exe"
       }
     }
   }

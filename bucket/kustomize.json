@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.3.0/kustomize_v5.3.0_windows_amd64.zip",
+      "url": "https://ghp.ci/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.3.0/kustomize_v5.3.0_windows_amd64.zip",
       "hash": "649c770dd9b506cec77f3036c3374d58d86d69427f5329b28c68b49fa90188db"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.3.0/kustomize_v5.3.0_windows_arm64.zip",
+      "url": "https://ghp.ci/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v5.3.0/kustomize_v5.3.0_windows_arm64.zip",
       "hash": "9872714c4d88fbef07d9e52da31db66a596e2b95d06eadbd6a1d894fcd61fec9"
     }
   },
@@ -22,10 +22,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v$version/kustomize_v$version_windows_amd64.zip"
+        "url": "https://ghp.ci/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v$version/kustomize_v$version_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v$version/kustomize_v$version_windows_arm64.zip"
+        "url": "https://ghp.ci/https://github.com/kubernetes-sigs/kustomize/releases/download/kustomize/v$version/kustomize_v$version_windows_arm64.zip"
       }
     },
     "hash": {

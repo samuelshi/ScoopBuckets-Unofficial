@@ -1,9 +1,9 @@
 {
-  "$schema": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
+  "$schema": "https://ghp.ci/https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
   "homepage": "https://github.com/julianhyde/sqlline",
   "license": "BSD-3",
   "version": "1.12.0",
-  "url": "https://mirror.ghproxy.com/https://github.com/julianhyde/sqlline/archive/refs/tags/sqlline-1.12.0.zip",
+  "url": "https://ghp.ci/https://github.com/julianhyde/sqlline/archive/refs/tags/sqlline-1.12.0.zip",
   "hash": "d577dbe9f67a6e8b4b2b2b319b9d278578f9dfe841bae3644d1d7acfbfcba9ec",
   "bin": [
     "sqlline-sqlline-1.12.0\\bin\\sqlline.bat"
@@ -13,7 +13,7 @@
     "re": "sqlline-([\\d\\w.-]+)"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/julianhyde/sqlline/archive/refs/tags/sqlline-$version.zip"
+    "url": "https://ghp.ci/https://github.com/julianhyde/sqlline/archive/refs/tags/sqlline-$version.zip"
   },
   "shortcuts": [
     [

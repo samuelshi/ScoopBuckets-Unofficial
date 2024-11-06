@@ -5,15 +5,15 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v1.18.0/mihomo-windows-amd64-v1.18.0.zip",
+      "url": "https://ghp.ci/https://github.com/MetaCubeX/mihomo/releases/download/v1.18.0/mihomo-windows-amd64-v1.18.0.zip",
       "hash": "ab8b25366867d178f333c0de21c7b270b066f55a5506e5a8370163ae5fc6aa4a"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v1.18.0/mihomo-windows-386-v1.18.0.zip",
+      "url": "https://ghp.ci/https://github.com/MetaCubeX/mihomo/releases/download/v1.18.0/mihomo-windows-386-v1.18.0.zip",
       "hash": "8c85b052ca549137a07837312be2a06d67ea19e0769249c481e82481c86c9d6b"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v1.18.0/mihomo-windows-arm64-v1.18.0.zip",
+      "url": "https://ghp.ci/https://github.com/MetaCubeX/mihomo/releases/download/v1.18.0/mihomo-windows-arm64-v1.18.0.zip",
       "hash": "6c652e572a919ae7204ba06ed3fa9f39ecf16564e1a74ad8ad8bb80ab7e21425"
     }
   },
@@ -29,13 +29,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-amd64-v$version.zip"
+        "url": "https://ghp.ci/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-amd64-v$version.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-386-v$version.zip"
+        "url": "https://ghp.ci/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-386-v$version.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-arm64-v$version.zip"
+        "url": "https://ghp.ci/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-arm64-v$version.zip"
       }
     }
   }

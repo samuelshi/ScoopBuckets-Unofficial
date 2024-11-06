@@ -5,7 +5,7 @@
   "license": "ISC",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/aduros/wasm4/releases/download/v2.6.1/w4-windows.zip",
+      "url": "https://ghp.ci/https://github.com/aduros/wasm4/releases/download/v2.6.1/w4-windows.zip",
       "hash": "b9ff2f6368688d1081dddb3f09348f7d823b163c381373c625e0db8f5c3a391d"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/aduros/wasm4/releases/download/v$version/w4-windows.zip"
+        "url": "https://ghp.ci/https://github.com/aduros/wasm4/releases/download/v$version/w4-windows.zip"
       }
     }
   }

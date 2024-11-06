@@ -18,7 +18,7 @@
     "64bit": {
       "url": [
         "https://nightly.link/streamlink/windows-builds/workflows/nightly/master/streamlink-6.3.1-0-g2974176-py311-x86_64.zip.zip",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
+        "https://ghp.ci/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
       ],
       "hash": [
         "da69bea37ff0762e7601f85b0ccdfd3a5cfb4c0dba5bd6fee90edbd80dffa184",
@@ -28,7 +28,7 @@
     "32bit": {
       "url": [
         "https://nightly.link/streamlink/windows-builds/workflows/nightly/master/streamlink-6.3.1-0-g2974176-py311-x86.zip.zip",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
+        "https://ghp.ci/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
       ],
       "hash": [
         "7731537645992bbb485a1115f88dd55750b200d8eba7f0428cc9ce2cbeb5446a",
@@ -84,13 +84,13 @@
       "64bit": {
         "url": [
           "https://nightly.link/streamlink/windows-builds/workflows/$matchBuild/master/streamlink-$version-py311-x86_64.zip.zip",
-          "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
+          "https://ghp.ci/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
         ]
       },
       "32bit": {
         "url": [
           "https://nightly.link/streamlink/windows-builds/workflows/$matchBuild/master/streamlink-$version-py311-x86.zip.zip",
-          "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
+          "https://ghp.ci/https://raw.githubusercontent.com/2bc4/streamlink-ttvlol/master/twitch.py"
         ]
       }
     }

@@ -7,8 +7,8 @@
     "JRE": "java/adopt8-hotspot-jre"
   },
   "url": [
-    "https://mirror.ghproxy.com/https://github.com/developersu/ns-usbloader/releases/download/v6.0/ns-usbloader-6.0.jar",
-    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/developersu/ns-usbloader/master/appicon.ico"
+    "https://ghp.ci/https://github.com/developersu/ns-usbloader/releases/download/v6.0/ns-usbloader-6.0.jar",
+    "https://ghp.ci/https://raw.githubusercontent.com/developersu/ns-usbloader/master/appicon.ico"
   ],
   "hash": [
     "270625bd94148ecbb5912ab6535abc6a10c719a4dac1fefad12643cd578b9f03",

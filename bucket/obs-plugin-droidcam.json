@@ -14,7 +14,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.1/DroidCamOBS.Setup.2.3.1.exe#/dl.7z",
+      "url": "https://ghp.ci/https://github.com/dev47apps/droidcam-obs-plugin/releases/download/2.3.1/DroidCamOBS.Setup.2.3.1.exe#/dl.7z",
       "hash": "d153bad8cc2b32f9a2c38b164e0461ce1e7b768455644093f5cd16167c6dad44"
     }
   },
@@ -46,7 +46,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/dev47apps/droidcam-obs-plugin/releases/download/$version/DroidCamOBS.Setup.$version.exe#/dl.7z"
+        "url": "https://ghp.ci/https://github.com/dev47apps/droidcam-obs-plugin/releases/download/$version/DroidCamOBS.Setup.$version.exe#/dl.7z"
       }
     }
   }

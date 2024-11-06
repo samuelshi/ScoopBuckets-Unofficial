@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v1.17.0/mihomo-windows-amd64-compatible-v1.17.0.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/MetaCubeX/mihomo/releases/download/v1.17.0/mihomo-windows-amd64-compatible-v1.17.0.zip",
       "hash": "d464988812cb5e74de063d72dcf4464c1f6d5f3e7ee088234b29f12037249181"
     }
   },
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-amd64-compatible-v$version.zip"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-amd64-compatible-v$version.zip"
       }
     }
   }

@@ -7,7 +7,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/niuhuan/kobi/releases/download/v0.0.8/kobi-v0.0.8-windows-x86_64.zip",
+      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/niuhuan/kobi/releases/download/v0.0.8/kobi-v0.0.8-windows-x86_64.zip",
       "hash": "62c1de38cda2e7a3358588aace1603ccc2a2023d3282713cb57c199d128e319d"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/niuhuan/kobi/releases/download/v$version/kobi-v$version-windows-x86_64.zip"
+        "url": "https://mirror.ghproxy.com/https://ghp.ci/https://github.com/niuhuan/kobi/releases/download/v$version/kobi-v$version-windows-x86_64.zip"
       }
     }
   }

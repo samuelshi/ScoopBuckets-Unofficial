@@ -5,11 +5,11 @@
   "license": "GPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Richasy/Bili.Copilot/releases/download/v1.2406.3.0/Bili.Copilot_1.2406.3.0_x64.zip",
+      "url": "https://ghp.ci/https://github.com/Richasy/Bili.Copilot/releases/download/v1.2406.3.0/Bili.Copilot_1.2406.3.0_x64.zip",
       "hash": "ebc39adbad13209349cdc3de5feaf79eab4759d9cf5b0d94df04db259a2cd945"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Richasy/Bili.Copilot/releases/download/v1.2406.3.0/Bili.Copilot_1.2406.3.0_arm64.zip",
+      "url": "https://ghp.ci/https://github.com/Richasy/Bili.Copilot/releases/download/v1.2406.3.0/Bili.Copilot_1.2406.3.0_arm64.zip",
       "hash": "e2d58141e0f892399244cb71bd127dd0ad91548fe6a5321a27e5d81337d750c3"
     }
   },
@@ -39,10 +39,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Richasy/Bili.Copilot/releases/download/v$version/Bili.Copilot_$version_x64.zip"
+        "url": "https://ghp.ci/https://github.com/Richasy/Bili.Copilot/releases/download/v$version/Bili.Copilot_$version_x64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Richasy/Bili.Copilot/releases/download/v$version/Bili.Copilot_$version_arm64.zip"
+        "url": "https://ghp.ci/https://github.com/Richasy/Bili.Copilot/releases/download/v$version/Bili.Copilot_$version_arm64.zip"
       }
     }
   }

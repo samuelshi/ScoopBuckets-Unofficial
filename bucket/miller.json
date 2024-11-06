@@ -5,12 +5,12 @@
   "license": "BSD-2-Clause",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/johnkerl/miller/releases/download/v6.11.0/miller-6.11.0-windows-amd64.zip",
+      "url": "https://ghp.ci/https://github.com/johnkerl/miller/releases/download/v6.11.0/miller-6.11.0-windows-amd64.zip",
       "hash": "ac261b3bb6444780f06406814e687d9072c26c2b72dd924cfb8a68f609add2a8",
       "extract_dir": "miller-6.11.0-windows-amd64"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/johnkerl/miller/releases/download/v6.11.0/miller-6.11.0-windows-386.zip",
+      "url": "https://ghp.ci/https://github.com/johnkerl/miller/releases/download/v6.11.0/miller-6.11.0-windows-386.zip",
       "hash": "cba4a2da0dce1087c92a4caefe76986580139683e45fd3b64ef8103bf35c31cc",
       "extract_dir": "miller-6.11.0-windows-386"
     }
@@ -22,11 +22,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/johnkerl/miller/releases/download/v$version/miller-$version-windows-amd64.zip",
+        "url": "https://ghp.ci/https://github.com/johnkerl/miller/releases/download/v$version/miller-$version-windows-amd64.zip",
         "extract_dir": "miller-$version-windows-amd64"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/johnkerl/miller/releases/download/v$version/miller-$version-windows-386.zip",
+        "url": "https://ghp.ci/https://github.com/johnkerl/miller/releases/download/v$version/miller-$version-windows-386.zip",
         "extract_dir": "miller-$version-windows-386"
       }
     },

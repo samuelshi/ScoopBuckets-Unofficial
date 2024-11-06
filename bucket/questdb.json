@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/questdb/questdb/releases/download/7.3.9/questdb-7.3.9-no-jre-bin.tar.gz",
+      "url": "https://ghp.ci/https://github.com/questdb/questdb/releases/download/7.3.9/questdb-7.3.9-no-jre-bin.tar.gz",
       "hash": "91ba4b78538bcd53e7a0d9671403e63e17ee36610492bac4e102cddc65cc6753",
       "extract_dir": "questdb-7.3.9-no-jre-bin"
     }
@@ -25,7 +25,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/questdb/questdb/releases/download/$version/questdb-$version-no-jre-bin.tar.gz",
+        "url": "https://ghp.ci/https://github.com/questdb/questdb/releases/download/$version/questdb-$version-no-jre-bin.tar.gz",
         "extract_dir": "questdb-$version-no-jre-bin"
       }
     }

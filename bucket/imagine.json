@@ -9,7 +9,7 @@
   "pre_install": "if (!(Test-Path \"$persist_dir\\Imagine.ini\")) { New-Item \"$dir\\Imagine.ini\" | Out-Null }",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/nyam1003/imagine/main/x64/Imagine_1.4.1_x64_Unicode.zip",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/nyam1003/imagine/main/x64/Imagine_1.4.1_x64_Unicode.zip",
       "hash": "5b16ab6db31c8ac8a0cd72719ec43fff4a62e6f93defb6d7d00982d1372e29bb",
       "bin": [
         "Imagine64.exe",
@@ -26,7 +26,7 @@
       ]
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/nyam1003/imagine/main/Imagine_1.4.1_Unicode.zip",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/nyam1003/imagine/main/Imagine_1.4.1_Unicode.zip",
       "hash": "c30b886b7610289e7355cc5f80b53e45e190806e12c29f4c8e92d87e619a0aa2",
       "bin": "Imagine.exe",
       "shortcuts": [
@@ -46,10 +46,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/nyam1003/imagine/main/x64/Imagine_$version_x64_Unicode.zip"
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/nyam1003/imagine/main/x64/Imagine_$version_x64_Unicode.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/nyam1003/imagine/main/Imagine_$version_Unicode.zip"
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/nyam1003/imagine/main/Imagine_$version_Unicode.zip"
       }
     }
   }
