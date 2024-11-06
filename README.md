@@ -1,4 +1,4 @@
-<p align="center"><img src="https://gcore.jsdelivr.net/gh/cmontage/scoopbucket@main/bin/scoop.png" alt="Scoop Logo" ></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/16618068" alt="Scoop Logo" ></p>
 
 <h1 align="center">Third Bucket All In One</h1>
 
@@ -38,10 +38,10 @@
     scoop bucket rm third
     ```
 
-> [!TIP] 
+> [!TIP]
 >
 > 如果你之前添加过其他 bucket 并下载过应用，你希望他们全部或者部分使用本仓库来进行更新。那么你需要在 app 安装后的 apps\current 路径下的 install.json 的 bucket 项的值改为 third。然后运行 scoop list 来检查是否替换成功。
-> 
+>
 > 如果要批量修改，直接 vscode 搜索替换大法。
 
 ## 安装应用
