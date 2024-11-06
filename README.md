@@ -2,11 +2,11 @@
 
 <h1 align="center">Third Bucket All In One</h1>
 
-将 Scoop 第三方库整合成一个 Bucket，每日同步，主要用于我的 [Scoop 官方整合库](https://github.com/cmontage/scoopbucket)的拓展，安装应用时便于分辨官方源与第三方源。
+将 Scoop 第三方库整合成一个 Bucket，每日同步，主要用于我的 [Scoop 官方整合库](https://github.com/samuelshi/ScoopBuckets)的拓展，安装应用时便于分辨官方源与第三方源。
 
 ## 介绍
 
-包含了我觉得自己用得到的 Scoop 第三方库：
+包含了一些比较不错的 Scoop 第三方库：
 
     ivaquero/scoopet
     scoopcn/scoopcn
@@ -18,7 +18,7 @@
 
 ## 安装 Scoop
 
-请看[这里](https://github.com/cmontage/scoopbucket?tab=readme-ov-file#%E5%AE%89%E8%A3%85-scoop)，或者[官方文档](https://github.com/ScoopInstaller/Install#readme)
+请看[这里](https://github.com/samuelshi/ScoopBuckets?tab=readme-ov-file#%E5%AE%89%E8%A3%85-scoop)，或者[官方文档](https://github.com/ScoopInstaller/Install#readme)
 
 ## 添加仓库
 
@@ -32,10 +32,10 @@
 添加本仓库，运行命令
 
     ```powershell
-    scoop bucket add third https://mirror.ghproxy.com/github.com/cmontage/scoopbucket-third
+    scoop bucket add unofficial https://ghp.ci/https://github.com/samuelshi/ScoopBuckets-Unofficial
 
     # 如果需要移除本仓库
-    scoop bucket rm third
+    scoop bucket rm unofficial
     ```
 
 > [!TIP]
@@ -55,7 +55,7 @@ scoop-search APPNAME
 安装应用：
 
 ```powershell
-scoop install third/APPNAME
+scoop install unofficial/APPNAME
 ```
 
 ## 查看帮助
