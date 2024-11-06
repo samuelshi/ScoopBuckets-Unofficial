@@ -12,16 +12,16 @@ export const CONFIG = {
   isCI,
   /** 是否忽略 manifest JSON 解析失败的应用 */
   ignoreParseFailed: true,
-  tmpDir: path.resolve(rootDir, 'tmp'),
+  tmpDir: path.resolve(rootDir, "tmp"),
   // ghproxy: 'https://gh.api.99988866.xyz',
-  ghproxy: 'https://mirror.ghproxy.com',
+  ghproxy: 'https://ghp.ci',
   // ghproxy: 'https://www.ghproxy.cc',
   // ghproxy: 'https://ghps.cc',
   // ghproxy: 'https://ghproxy.net',
   // ghproxy: 'https://gh.ddlc.top',
   // --- https://github-mirror.us.kg --- 大量个人部署的服务列表
   /** 已失效的历史地址；用于兼容其他仓库的，避免套娃问题 */
-  ghproxyInvalid: ['https://gh-proxy.com', 'https://ghproxy.com'],
+  ghproxyInvalid: ["https://gh-proxy.com", "https://ghproxy.com"],
   /** 同步仓库列表，按仓库质量排序 */
   repo: new Set([
     `ivaquero/scoopet`,
@@ -29,10 +29,9 @@ export const CONFIG = {
     `kkzzhizhou/scoop-apps`,
     `anderlli0053/DEV-tools`,
     `akirco/aki-apps`,
-
   ]),
   filter: /audacity_installer|\.gitkeep|__/,
   sourcesStatFile: path.resolve(rootDir, `sync-sources.txt`),
-  lowPriorityFile: path.resolve(rootDir, 'bucket-low-priority.txt'),
-  ignoredFile: path.resolve(rootDir, 'bucket-ignored.txt'),
+  lowPriorityFile: path.resolve(rootDir, "bucket-low-priority.txt"),
+  ignoredFile: path.resolve(rootDir, "bucket-ignored.txt"),
 };
